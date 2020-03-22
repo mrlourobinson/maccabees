@@ -1,0 +1,30 @@
+[
+  {
+    "Album": "Colour It In",
+    "date": "14-May-07",
+    "UKChartPosition": 24,
+    "WeeksinCharts": 3,
+    "Certification": "UK: Silver"
+  },
+  {
+    "Album": "Wall of Arms",
+    "date": "04-Apr-09",
+    "UKChartPosition": 13,
+    "WeeksinCharts": 3,
+    "Certification": "UK: Silver"
+  },
+  {
+    "Album": "Given to the Wild",
+    "date": "09-Jan-12",
+    "UKChartPosition": 4,
+    "WeeksinCharts": 24,
+    "Certification": "UK: Gold"
+  },
+  {
+    "Album": "Marks to Prove It",
+    "date": "31-Jul-15",
+    "UKChartPosition": 1,
+    "WeeksinCharts": 10,
+    "Certification": ""
+  }
+]

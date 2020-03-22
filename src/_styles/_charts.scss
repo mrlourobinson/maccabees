@@ -1,0 +1,8 @@
+circle {
+    fill: rgb(56, 31, 116);
+}
+
+// The rest of your styles are up here
+.y .tick:not(:first-of-type) line {
+    stroke: #e7e7e7;
+  }

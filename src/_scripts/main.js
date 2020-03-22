@@ -7,6 +7,8 @@ import 'core-js';
 import 'regenerator-runtime/runtime';
 import $ from 'jquery';
 import { Link } from '../_modules/link/link';
+import './_chart.js';
+import './_singles.js';
 
 $(() => {
   new Link(); // Activate Link modules logic

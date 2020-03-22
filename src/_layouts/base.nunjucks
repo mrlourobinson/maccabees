@@ -1,34 +1,35 @@
-{# Custom Configuration #}
-{% block config %}
-  {# Setup site's base URL to match the "baseUrl" key within `package.json` #}
-  {# Otherwise default to relative pathing #}
-  {% set baseUrl = config.baseUrl or './' %}
-{% endblock %}
-
-<!DOCTYPE html>
-<html lang="en" class="no-js">
-
-  <head>
-    <meta charset="utf-8"/>
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
-    <title>maccabees</title>
-    <meta name="description" content="A new Yeogurt application"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
-    <link rel="stylesheet" href="{{baseUrl}}styles/main.css"/>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>First Graphics App</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles/main.css">
     {% block stylesheets %}{% endblock %}
+</head>
+<body>
+    <nav>
+            <p class="title">Graphic reporting</p>
+    </nav>
 
-  </head>
-  <body>
-    <!--[if lt IE 11]>
-    <p class="browsehappy">
-      You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.
-    </p>
-    <![endif]-->
+    <div class="hero">
+        {% block hero %}{% endblock %}
+    </div>
 
-    {% block content %}{% endblock %}
-
-    <script src="{{baseUrl}}scripts/main.js"></script>
+    <div class="container">
+      <header>
+          <h1>{% block headline %}{% endblock %}</h1>
+          <div class="byline">
+              <p>By: {% block byline %}{% endblock %}</p>
+          </div>
+          <div class="pubdate">
+              <p>- {% block pubdate %}{% endblock %}</p>
+          </div>
+      </header>
+      {% block content %}{% endblock %}
+    </div>
+    
     {% block scripts %}{% endblock %}
-  </body>
+    <script src="scripts/main.js"></script>
+</body>
 </html>
