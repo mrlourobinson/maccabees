@@ -1,10 +1,10 @@
 import * as d3 from "d3";
-import albums from "../_data/albums";
+import singles from "../_data/singles";
 
 
-    var margin = {top: 20, right: 20, bottom: 20, left: 40};
+    var margin = {top: 20, right: 20, bottom: 20, left: 20};
 
-    var container = d3.select('#albums');
+    var container = d3.select('#singles');
     var containerWidth = container.node().offsetWidth;
     var containerHeight = containerWidth * 0.66;
     var chartWidth = containerWidth - margin.left - margin.right;
@@ -16,20 +16,14 @@ import albums from "../_data/albums";
                     .append('g')
                     .attr('transform', `translate(${margin.left}, ${margin.top})`)
 
-    // define the x scale (horizontal)
-    var mindate = new Date(2007,0,1),
-    maxdate = new Date(2015,12,31);
+    var xDomain = singles.map(d => d.Year);
 
-    // parse the date / time
-    var parseTime = d3.timeParse("%d-%b-%y");
-    albums.forEach(function(d) {
-        d.date = parseTime(d.date);
-    });
+    var yDomain = [200,1];
 
-    var yDomain = [0, 25];
-
-    var xScale = d3.scaleTime().domain(d3.extent(albums, function(d) { return d.date; }))
-    .range([0, chartWidth]);
+    var xScale = d3.scaleBand()
+    .domain(xDomain)
+    .range([0, chartWidth])
+    .padding(0.1);
 
     var yScale = d3.scaleLinear()
     .domain(yDomain)
@@ -39,7 +33,8 @@ import albums from "../_data/albums";
 
     var yAxis = d3.axisLeft(yScale)
     .tickSize(-chartWidth)
-    .ticks(4);
+    .ticks(4)
+    .tickValues([200,150,100,50,1]);
 
     svg.append("g")
     .attr("class", "x axis")
@@ -54,19 +49,36 @@ import albums from "../_data/albums";
     .attr("class", "y axis")
     .call(yAxis);
 
+    var tooltip = svg.append('text')
+    .attr('class', 'chart-tooltip');
+
     svg.selectAll("circle")   
-    .data(albums)
+    .data(singles)
     .enter()
     .append("circle")
     .attr("class","dot")
       .attr("cx", function(d) {
-        return xScale(d.date);
+        return xScale(d.Year);
       })
       .attr("cy", function(d) {
-        return yScale(d.UKChartPosition) - 3;
+        return yScale(d.PeakPosition);
       })
-      .attr("r", function(d) {
-        return d.WeeksinCharts;
-      });
+      .attr("r", 3)
+      .on('mouseenter', function(d) {
+        d3.select(this).classed('highlight', true);
+        d3.select(this).attr("r",5);
+        // centers the text above each bar
+        var x = xScale(d.Year) + xScale.bandwidth() / 2;
+        // the - 5 bumps up the text a bit so it's not directly over the bar
+        var y = yScale(d.PeakPosition) - 10;
+
+        tooltip.text(d.Title)
+            .attr('transform', `translate(${x}, ${y})`)
+    })
+    .on('mouseleave', function(d) {
+        d3.select(this).classed('highlight', false);
+        tooltip.text('');
+        d3.select(this).attr("r",3);
+    });
 
     

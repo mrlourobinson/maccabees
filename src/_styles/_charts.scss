@@ -1,3 +1,8 @@
+.chart {
+    width: 50%;
+    float: left;
+}
+
 circle {
     fill: rgb(56, 31, 116);
 }
@@ -5,4 +10,30 @@ circle {
 // The rest of your styles are up here
 .y .tick:not(:first-of-type) line {
     stroke: #e7e7e7;
+  }
+
+  rect {
+    fill: #86C7DF;
+  }
+  
+  .y .domain {
+    display: none;
+  }
+  
+  .x .domain {
+    display: none;
+  }
+  
+  .x .tick line {
+    display: none;
+  }
+
+  .chart-tooltip {
+    font-family: Helvetica;
+    font-size: 12px;
+    text-anchor: middle;
+  }
+
+  .highlight {
+    fill: #2AB2E4;
   }

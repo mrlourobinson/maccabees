@@ -2,7 +2,7 @@ import * as d3 from "d3";
 import albums from "../_data/albums";
 
 
-    var margin = {top: 20, right: 20, bottom: 20, left: 40};
+    var margin = {top: 20, right: 20, bottom: 20, left: 20};
 
     var container = d3.select('#albums');
     var containerWidth = container.node().offsetWidth;
@@ -17,8 +17,8 @@ import albums from "../_data/albums";
                     .attr('transform', `translate(${margin.left}, ${margin.top})`)
 
     // define the x scale (horizontal)
-    var mindate = new Date(2007,0,1),
-    maxdate = new Date(2015,12,31);
+    var mindate = new Date(2006,11,1),
+    maxdate = new Date(2016,3,31);
 
     // parse the date / time
     var parseTime = d3.timeParse("%d-%b-%y");
@@ -26,9 +26,9 @@ import albums from "../_data/albums";
         d.date = parseTime(d.date);
     });
 
-    var yDomain = [0, 25];
+    var yDomain = [26, 1];
 
-    var xScale = d3.scaleTime().domain(d3.extent(albums, function(d) { return d.date; }))
+    var xScale = d3.scaleTime().domain([mindate,maxdate])
     .range([0, chartWidth]);
 
     var yScale = d3.scaleLinear()
@@ -39,7 +39,8 @@ import albums from "../_data/albums";
 
     var yAxis = d3.axisLeft(yScale)
     .tickSize(-chartWidth)
-    .ticks(4);
+    .ticks(4)
+    .tickValues([25,20,15,10,5,1]);
 
     svg.append("g")
     .attr("class", "x axis")
@@ -54,6 +55,9 @@ import albums from "../_data/albums";
     .attr("class", "y axis")
     .call(yAxis);
 
+    var tooltip = svg.append('text')
+    .attr('class', 'chart-tooltip');
+
     svg.selectAll("circle")   
     .data(albums)
     .enter()
@@ -63,10 +67,24 @@ import albums from "../_data/albums";
         return xScale(d.date);
       })
       .attr("cy", function(d) {
-        return yScale(d.UKChartPosition) - 3;
+        return yScale(d.UKChartPosition);
       })
-      .attr("r", function(d) {
-        return d.WeeksinCharts;
-      });
+      .attr("r", 3)
+      .on('mouseenter', function(d) {
+        d3.select(this).classed('highlight', true);
+        d3.select(this).attr("r",5);
+        // centers the text above each bar
+        var x = xScale(d.date);
+        // the - 5 bumps up the text a bit so it's not directly over the bar
+        var y = yScale(d.UKChartPosition) - 10;
+
+        tooltip.text(d.Album)
+            .attr('transform', `translate(${x}, ${y})`)
+    })
+    .on('mouseleave', function(d) {
+        d3.select(this).classed('highlight', false);
+        tooltip.text('');
+        d3.select(this).attr("r",3);
+    });
 
     

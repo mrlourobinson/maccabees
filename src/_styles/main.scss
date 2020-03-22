@@ -18,8 +18,8 @@ body {
 }
 section {
   width: 100%;
-  float: left;
-  padding: 1em;
+  float: right;
+  position: relative;
 }
 
 .hero {
@@ -50,6 +50,12 @@ h1 {
   font-family: 'Libre Baskerville', serif;
   font-weight: 700;
   font-size: 3em;
+}
+
+h4 {
+  font-family: 'Libre Baskerville', serif;
+  font-weight: 700;
+  font-size: 1em;
 }
 
 .byline {
