@@ -3,12 +3,12 @@
 {% import "_modules/link/link.nunjucks" as link %}
 
 
-<section>
+
   {% block hero %}<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/The_Maccabees_1.jpg"/>{% endblock %}
   {% block headline %}The Maccabees: An exploration in data{% endblock %}
   {% block byline %}Lou Robinson{% endblock %}
   {% block pubdate %}Sun Mar 22 2020{% endblock %}
-</section>
+
 
 {% block content %}
 <section class="leader">
@@ -16,12 +16,24 @@
 </section>
 
 
-
+<section>
 <div class="chart" id="albums">
   <h4>Album chart positions</h3>
 </div>
 <div class="chart" id="singles">
   <h4>Singles chart positions</h3
 </div>
+</section>
+
+<section>
+<br>
+<h4>Tours all over the world</h4>
+<div id="map">
+</section>
+
+</div>
+
+
+
 
 {% endblock %}

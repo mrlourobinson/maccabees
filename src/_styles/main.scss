@@ -4,6 +4,7 @@
 // Import Modules
 @import '../_modules/link/link';
 @import './_charts.scss';
+@import 'node_modules/leaflet/dist/leaflet';
 
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Raleway:wght@400;700&display=swap');
 
@@ -65,6 +66,17 @@ h4 {
 .pubdate {
   float: left;
   margin-left: .25em;
+}
+
+#map {
+  height: 500px;
+  width: 100%;
+}
+
+#map path {
+  fill: #6063ff;
+  fill-opacity: .5;
+  stroke-opacity: 0;
 }
 
 
