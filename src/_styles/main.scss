@@ -13,11 +13,36 @@ body {
   font-weight: 400;
 }
 
+a {
+  color: rgb(56, 31, 116);
+}
+
+a:link {
+  color: rgb(56, 31, 116);
+}
+
+/* visited link */
+a:visited {
+  color: rgb(56, 31, 116);
+}
+
+/* mouse over link */
+a:hover {
+  font-style: italic;
+  color: rgb(56, 31, 116);
+}
+
+/* selected link */
+a:active {
+  color: rgb(56, 31, 116);
+}
+
 .container {
   max-width: 1024px;
   margin: 0 auto 0 auto;
 }
 section {
+  margin-top: 25px;
   width: 100%;
   float: right;
   position: relative;
@@ -61,6 +86,7 @@ h4 {
 
 .byline {
   float: left;
+  font-weight: 700;
 }
 
 .pubdate {
@@ -74,7 +100,7 @@ h4 {
 }
 
 #map path {
-  fill: #6063ff;
+  fill: rgb(56, 31, 116);
   fill-opacity: .5;
   stroke-opacity: 0;
 }

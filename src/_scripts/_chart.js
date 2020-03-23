@@ -26,7 +26,7 @@ import albums from "../_data/albums";
         d.date = parseTime(d.date);
     });
 
-    var yDomain = [26, 1];
+    var yDomain = [40, 1];
 
     var xScale = d3.scaleTime().domain([mindate,maxdate])
     .range([0, chartWidth]);
@@ -40,7 +40,7 @@ import albums from "../_data/albums";
     var yAxis = d3.axisLeft(yScale)
     .tickSize(-chartWidth)
     .ticks(4)
-    .tickValues([25,20,15,10,5,1]);
+    .tickValues([40,30,20,10,1]);
 
     svg.append("g")
     .attr("class", "x axis")

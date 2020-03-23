@@ -19,16 +19,20 @@
     <div class="container">
       <header>
           <h1>{% block headline %}{% endblock %}</h1>
+          <hr>
+          <section>
           <div class="byline">
               <p>By: {% block byline %}{% endblock %}</p>
           </div>
           <div class="pubdate">
               <p>- {% block pubdate %}{% endblock %}</p>
           </div>
+          </section>
+          
       </header>
       {% block content %}{% endblock %}
     </div>
-    
+
     {% block scripts %}{% endblock %}
     <script src="scripts/main.js"></script>
 </body>
