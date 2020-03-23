@@ -1,3 +1,9 @@
+$breakpoints: (
+  'small':  500px,
+  'medium': 992px,
+  'large':  1200px
+) !default;
+
 .chart {
     width: 50%;
     float: left;

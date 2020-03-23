@@ -1,0 +1,31 @@
+{% extends './base.nunjucks' %}
+
+{# Add extra stylesheets #}
+{% block stylesheets %}{% endblock %}
+
+{% block layout %}
+    <div class="hero">
+        {% block hero %}{% endblock %}
+    </div>
+
+    <div class="container">
+      <header>
+          <h1>{% block headline %}{% endblock %}</h1>
+          <hr>
+          <section>
+          <div class="byline">
+              <p>By: {% block byline %}{% endblock %}</p>
+          </div>
+          <div class="pubdate">
+              <p>- {% block pubdate %}{% endblock %}</p>
+          </div>
+          </section>
+          
+      </header>
+      {% block content %}{% endblock %}
+    </div>
+
+{% endblock %}
+
+{# Add extra scripts #}
+{% block scripts %}{% endblock %}

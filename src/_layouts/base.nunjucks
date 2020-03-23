@@ -2,38 +2,16 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>First Graphics App</title>
+    <title>LWT</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
-    <link rel="stylesheet" href="styles/main.css">
+    <link rel="stylesheet" href="/styles/main.css">
     {% block stylesheets %}{% endblock %}
 </head>
 <body>
     <nav>
-            <p class="title">Graphic reporting</p>
+            <p class="title">The Lou's Wor<span class="kay">K</span> Times</p>
     </nav>
-
-    <div class="hero">
-        {% block hero %}{% endblock %}
-    </div>
-
-    <div class="container">
-      <header>
-          <h1>{% block headline %}{% endblock %}</h1>
-          <hr>
-          <section>
-          <div class="byline">
-              <p>By: {% block byline %}{% endblock %}</p>
-          </div>
-          <div class="pubdate">
-              <p>- {% block pubdate %}{% endblock %}</p>
-          </div>
-          </section>
-          
-      </header>
-      {% block content %}{% endblock %}
-    </div>
-
-    {% block scripts %}{% endblock %}
-    <script src="scripts/main.js"></script>
+    {% block layout %}{% endblock %}
+    <script src="/scripts/main.js"></script>
 </body>
 </html>
