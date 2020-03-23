@@ -15,3 +15,4 @@ $(() => {
   new Link(); // Activate Link modules logic
   console.log('Welcome to Yeogurt!');
 });
+

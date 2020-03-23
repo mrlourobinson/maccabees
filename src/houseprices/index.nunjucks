@@ -1,0 +1,20 @@
+{% extends '_layouts/story.nunjucks' %}
+
+{% block config %}
+  {# Correct base url pathing for this page #}
+  {% set baseUrl = '../' %}
+{% endblock %}
+
+{% block header %}
+
+  {% block hero %}<img src="/images/houseprices.jpg"/>{% endblock %}
+  {% block headline %}London House Prices, in charts{% endblock %}
+  {% block byline %}Lou Robinson{% endblock %}
+  {% block pubdate %}Mon Mar 23 2020{% endblock %}
+{% endblock %}
+
+{% block content %}
+<p>houseprices page</p>
+{% endblock %}
+
+

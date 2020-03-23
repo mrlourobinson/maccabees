@@ -1,6 +1,12 @@
 {% extends '_layouts/story.nunjucks' %}
 
 {% import "_modules/link/link.nunjucks" as link %}
+{% import "_modules/maccabees/maccabees.js" as maccabees %}
+
+
+
+
+
 
 {% block header %}
 
@@ -84,5 +90,11 @@
 
 
 
+<script>
+
+
+
+
+</script>
 
 {% endblock %}

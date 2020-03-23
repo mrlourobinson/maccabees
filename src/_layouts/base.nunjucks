@@ -9,7 +9,7 @@
 </head>
 <body>
     <nav>
-            <a href="/"><p class="title">The Lou's Wor<span class="kay">K</span> Times</p></a>
+            <p class="title"><a href="/">The Lou's Wor<span class="kay">K</span> Times</a></p>
     </nav>
     {% block layout %}{% endblock %}
 

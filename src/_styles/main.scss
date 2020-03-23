@@ -14,27 +14,27 @@ body {
 }
 
 a {
-  color: rgb(56, 31, 116);
+  color: black;
 }
 
 a:link {
-  color: rgb(56, 31, 116);
+  color: black;
 }
 
 /* visited link */
 a:visited {
-  color: rgb(56, 31, 116);
+  color: black;
 }
 
 /* mouse over link */
 a:hover {
   text-decoration: none;
-  color: rgb(56, 31, 116);
+  color: black;
 }
 
 /* selected link */
 a:active {
-  color: rgb(56, 31, 116);
+  color: black;
 }
 
 .container {
@@ -61,7 +61,7 @@ section {
 
 nav {
   background-color: white;
-  padding: .25em 0 0 0;
+  padding: .4em 0 0 0;
   height: 40px;
   text-align: center;
   border-bottom: 1px solid #e2e2e2;
@@ -69,8 +69,8 @@ nav {
 
 .title {
   font-family: 'UnifrakturMaguntia', cursive;
-  font-size: 1.5em;
-  color: black;
+  font-size: 1.3em;
+  color: rgb(107, 105, 105);
 }
 
 .kay {

@@ -1,0 +1,5172 @@
+[
+  {
+    "area": "City of London",
+    "year": 1995,
+    "value": 106052
+  },
+  {
+    "area": "Barking and Dagenham",
+    "year": 1995,
+    "value": 48150
+  },
+  {
+    "area": "Barnet",
+    "year": 1995,
+    "value": 88379
+  },
+  {
+    "area": "Bexley",
+    "year": 1995,
+    "value": 61175
+  },
+  {
+    "area": "Brent",
+    "year": 1995,
+    "value": 67829
+  },
+  {
+    "area": "Bromley",
+    "year": 1995,
+    "value": 80067
+  },
+  {
+    "area": "Camden",
+    "year": 1995,
+    "value": 116175
+  },
+  {
+    "area": "Croydon",
+    "year": 1995,
+    "value": 61711
+  },
+  {
+    "area": "Ealing",
+    "year": 1995,
+    "value": 76922
+  },
+  {
+    "area": "Enfield",
+    "year": 1995,
+    "value": 68187
+  },
+  {
+    "area": "Greenwich",
+    "year": 1995,
+    "value": 63498
+  },
+  {
+    "area": "Hackney",
+    "year": 1995,
+    "value": 62467
+  },
+  {
+    "area": "Hammersmith and Fulham",
+    "year": 1995,
+    "value": 110891
+  },
+  {
+    "area": "Haringey",
+    "year": 1995,
+    "value": 72004
+  },
+  {
+    "area": "Harrow",
+    "year": 1995,
+    "value": 80145
+  },
+  {
+    "area": "Havering",
+    "year": 1995,
+    "value": 68014
+  },
+  {
+    "area": "Hillingdon",
+    "year": 1995,
+    "value": 72441
+  },
+  {
+    "area": "Hounslow",
+    "year": 1995,
+    "value": 76103
+  },
+  {
+    "area": "Islington",
+    "year": 1995,
+    "value": 100165
+  },
+  {
+    "area": "Kensington and Chelsea",
+    "year": 1995,
+    "value": 178418
+  },
+  {
+    "area": "Kingston upon Thames",
+    "year": 1995,
+    "value": 86144
+  },
+  {
+    "area": "Lambeth",
+    "year": 1995,
+    "value": 66589
+  },
+  {
+    "area": "Lewisham",
+    "year": 1995,
+    "value": 54220
+  },
+  {
+    "area": "Merton",
+    "year": 1995,
+    "value": 79193
+  },
+  {
+    "area": "Newham",
+    "year": 1995,
+    "value": 44177
+  },
+  {
+    "area": "Redbridge",
+    "year": 1995,
+    "value": 67919
+  },
+  {
+    "area": "Richmond upon Thames",
+    "year": 1995,
+    "value": 116014
+  },
+  {
+    "area": "Southwark",
+    "year": 1995,
+    "value": 71455
+  },
+  {
+    "area": "Sutton",
+    "year": 1995,
+    "value": 68550
+  },
+  {
+    "area": "Tower Hamlets",
+    "year": 1995,
+    "value": 67386
+  },
+  {
+    "area": "Waltham Forest",
+    "year": 1995,
+    "value": 53171
+  },
+  {
+    "area": "Wandsworth",
+    "year": 1995,
+    "value": 90097
+  },
+  {
+    "area": "Westminster",
+    "year": 1995,
+    "value": 136089
+  },
+  {
+    "area": "Inner London",
+    "year": 1995,
+    "value": 86090
+  },
+  {
+    "area": "Outer London",
+    "year": 1995,
+    "value": 72440
+  },
+  {
+    "area": "North East",
+    "year": 1995,
+    "value": 42024
+  },
+  {
+    "area": "North West",
+    "year": 1995,
+    "value": 44410
+  },
+  {
+    "area": "Yorkshire And The Humber",
+    "year": 1995,
+    "value": 45829
+  },
+  {
+    "area": "East Midlands",
+    "year": 1995,
+    "value": 47144
+  },
+  {
+    "area": "West Midlands",
+    "year": 1995,
+    "value": 50770
+  },
+  {
+    "area": "East of England",
+    "year": 1995,
+    "value": 59161
+  },
+  {
+    "area": "London",
+    "year": 1995,
+    "value": 77302
+  },
+  {
+    "area": "South East",
+    "year": 1995,
+    "value": 68885
+  },
+  {
+    "area": "South West",
+    "year": 1995,
+    "value": 57209
+  },
+  {
+    "area": "England",
+    "year": 1995,
+    "value": 56571
+  },
+  {
+    "area": "Wales",
+    "year": 1995,
+    "value": 43512
+  },
+  {
+    "area": "England And Wales",
+    "year": 1995,
+    "value": 55944
+  },
+  {
+    "area": "City of London",
+    "year": 1996,
+    "value": 128659
+  },
+  {
+    "area": "Barking and Dagenham",
+    "year": 1996,
+    "value": 48922
+  },
+  {
+    "area": "Barnet",
+    "year": 1996,
+    "value": 90065
+  },
+  {
+    "area": "Bexley",
+    "year": 1996,
+    "value": 64089
+  },
+  {
+    "area": "Brent",
+    "year": 1996,
+    "value": 72874
+  },
+  {
+    "area": "Bromley",
+    "year": 1996,
+    "value": 82945
+  },
+  {
+    "area": "Camden",
+    "year": 1996,
+    "value": 129561
+  },
+  {
+    "area": "Croydon",
+    "year": 1996,
+    "value": 65752
+  },
+  {
+    "area": "Ealing",
+    "year": 1996,
+    "value": 82026
+  },
+  {
+    "area": "Enfield",
+    "year": 1996,
+    "value": 71362
+  },
+  {
+    "area": "Greenwich",
+    "year": 1996,
+    "value": 65347
+  },
+  {
+    "area": "Hackney",
+    "year": 1996,
+    "value": 65824
+  },
+  {
+    "area": "Hammersmith and Fulham",
+    "year": 1996,
+    "value": 123054
+  },
+  {
+    "area": "Haringey",
+    "year": 1996,
+    "value": 78344
+  },
+  {
+    "area": "Harrow",
+    "year": 1996,
+    "value": 83988
+  },
+  {
+    "area": "Havering",
+    "year": 1996,
+    "value": 71387
+  },
+  {
+    "area": "Hillingdon",
+    "year": 1996,
+    "value": 72727
+  },
+  {
+    "area": "Hounslow",
+    "year": 1996,
+    "value": 77277
+  },
+  {
+    "area": "Islington",
+    "year": 1996,
+    "value": 105183
+  },
+  {
+    "area": "Kensington and Chelsea",
+    "year": 1996,
+    "value": 207974
+  },
+  {
+    "area": "Kingston upon Thames",
+    "year": 1996,
+    "value": 92353
+  },
+  {
+    "area": "Lambeth",
+    "year": 1996,
+    "value": 76731
+  },
+  {
+    "area": "Lewisham",
+    "year": 1996,
+    "value": 56300
+  },
+  {
+    "area": "Merton",
+    "year": 1996,
+    "value": 84291
+  },
+  {
+    "area": "Newham",
+    "year": 1996,
+    "value": 46738
+  },
+  {
+    "area": "Redbridge",
+    "year": 1996,
+    "value": 71701
+  },
+  {
+    "area": "Richmond upon Thames",
+    "year": 1996,
+    "value": 124955
+  },
+  {
+    "area": "Southwark",
+    "year": 1996,
+    "value": 72015
+  },
+  {
+    "area": "Sutton",
+    "year": 1996,
+    "value": 70670
+  },
+  {
+    "area": "Tower Hamlets",
+    "year": 1996,
+    "value": 76507
+  },
+  {
+    "area": "Waltham Forest",
+    "year": 1996,
+    "value": 55052
+  },
+  {
+    "area": "Wandsworth",
+    "year": 1996,
+    "value": 98630
+  },
+  {
+    "area": "Westminster",
+    "year": 1996,
+    "value": 143485
+  },
+  {
+    "area": "Inner London",
+    "year": 1996,
+    "value": 94410
+  },
+  {
+    "area": "Outer London",
+    "year": 1996,
+    "value": 76232
+  },
+  {
+    "area": "North East",
+    "year": 1996,
+    "value": 43240
+  },
+  {
+    "area": "North West",
+    "year": 1996,
+    "value": 45655
+  },
+  {
+    "area": "Yorkshire And The Humber",
+    "year": 1996,
+    "value": 46776
+  },
+  {
+    "area": "East Midlands",
+    "year": 1996,
+    "value": 48641
+  },
+  {
+    "area": "West Midlands",
+    "year": 1996,
+    "value": 52515
+  },
+  {
+    "area": "East of England",
+    "year": 1996,
+    "value": 60515
+  },
+  {
+    "area": "London",
+    "year": 1996,
+    "value": 82645
+  },
+  {
+    "area": "South East",
+    "year": 1996,
+    "value": 71893
+  },
+  {
+    "area": "South West",
+    "year": 1996,
+    "value": 59211
+  },
+  {
+    "area": "England",
+    "year": 1996,
+    "value": 59074
+  },
+  {
+    "area": "Wales",
+    "year": 1996,
+    "value": 44812
+  },
+  {
+    "area": "England And Wales",
+    "year": 1996,
+    "value": 58380
+  },
+  {
+    "area": "City of London",
+    "year": 1997,
+    "value": 138162
+  },
+  {
+    "area": "Barking and Dagenham",
+    "year": 1997,
+    "value": 53244
+  },
+  {
+    "area": "Barnet",
+    "year": 1997,
+    "value": 105968
+  },
+  {
+    "area": "Bexley",
+    "year": 1997,
+    "value": 69509
+  },
+  {
+    "area": "Brent",
+    "year": 1997,
+    "value": 84340
+  },
+  {
+    "area": "Bromley",
+    "year": 1997,
+    "value": 89104
+  },
+  {
+    "area": "Camden",
+    "year": 1997,
+    "value": 149861
+  },
+  {
+    "area": "Croydon",
+    "year": 1997,
+    "value": 72232
+  },
+  {
+    "area": "Ealing",
+    "year": 1997,
+    "value": 95216
+  },
+  {
+    "area": "Enfield",
+    "year": 1997,
+    "value": 81659
+  },
+  {
+    "area": "Greenwich",
+    "year": 1997,
+    "value": 69567
+  },
+  {
+    "area": "Hackney",
+    "year": 1997,
+    "value": 77829
+  },
+  {
+    "area": "Hammersmith and Fulham",
+    "year": 1997,
+    "value": 142247
+  },
+  {
+    "area": "Haringey",
+    "year": 1997,
+    "value": 87010
+  },
+  {
+    "area": "Harrow",
+    "year": 1997,
+    "value": 94518
+  },
+  {
+    "area": "Havering",
+    "year": 1997,
+    "value": 76179
+  },
+  {
+    "area": "Hillingdon",
+    "year": 1997,
+    "value": 81324
+  },
+  {
+    "area": "Hounslow",
+    "year": 1997,
+    "value": 86239
+  },
+  {
+    "area": "Islington",
+    "year": 1997,
+    "value": 121023
+  },
+  {
+    "area": "Kensington and Chelsea",
+    "year": 1997,
+    "value": 238939
+  },
+  {
+    "area": "Kingston upon Thames",
+    "year": 1997,
+    "value": 99255
+  },
+  {
+    "area": "Lambeth",
+    "year": 1997,
+    "value": 86518
+  },
+  {
+    "area": "Lewisham",
+    "year": 1997,
+    "value": 64653
+  },
+  {
+    "area": "Merton",
+    "year": 1997,
+    "value": 91364
+  },
+  {
+    "area": "Newham",
+    "year": 1997,
+    "value": 53781
+  },
+  {
+    "area": "Redbridge",
+    "year": 1997,
+    "value": 77171
+  },
+  {
+    "area": "Richmond upon Thames",
+    "year": 1997,
+    "value": 140379
+  },
+  {
+    "area": "Southwark",
+    "year": 1997,
+    "value": 85444
+  },
+  {
+    "area": "Sutton",
+    "year": 1997,
+    "value": 77909
+  },
+  {
+    "area": "Tower Hamlets",
+    "year": 1997,
+    "value": 94207
+  },
+  {
+    "area": "Waltham Forest",
+    "year": 1997,
+    "value": 61711
+  },
+  {
+    "area": "Wandsworth",
+    "year": 1997,
+    "value": 111168
+  },
+  {
+    "area": "Westminster",
+    "year": 1997,
+    "value": 170693
+  },
+  {
+    "area": "Inner London",
+    "year": 1997,
+    "value": 107939
+  },
+  {
+    "area": "Outer London",
+    "year": 1997,
+    "value": 84415
+  },
+  {
+    "area": "North East",
+    "year": 1997,
+    "value": 45627
+  },
+  {
+    "area": "North West",
+    "year": 1997,
+    "value": 48382
+  },
+  {
+    "area": "Yorkshire And The Humber",
+    "year": 1997,
+    "value": 48920
+  },
+  {
+    "area": "East Midlands",
+    "year": 1997,
+    "value": 51919
+  },
+  {
+    "area": "West Midlands",
+    "year": 1997,
+    "value": 56032
+  },
+  {
+    "area": "East of England",
+    "year": 1997,
+    "value": 66025
+  },
+  {
+    "area": "London",
+    "year": 1997,
+    "value": 93054
+  },
+  {
+    "area": "South East",
+    "year": 1997,
+    "value": 78087
+  },
+  {
+    "area": "South West",
+    "year": 1997,
+    "value": 64233
+  },
+  {
+    "area": "England",
+    "year": 1997,
+    "value": 64101
+  },
+  {
+    "area": "Wales",
+    "year": 1997,
+    "value": 47514
+  },
+  {
+    "area": "England And Wales",
+    "year": 1997,
+    "value": 63279
+  },
+  {
+    "area": "City of London",
+    "year": 1998,
+    "value": 197542
+  },
+  {
+    "area": "Barking and Dagenham",
+    "year": 1998,
+    "value": 60158
+  },
+  {
+    "area": "Barnet",
+    "year": 1998,
+    "value": 115972
+  },
+  {
+    "area": "Bexley",
+    "year": 1998,
+    "value": 77879
+  },
+  {
+    "area": "Brent",
+    "year": 1998,
+    "value": 98464
+  },
+  {
+    "area": "Bromley",
+    "year": 1998,
+    "value": 100937
+  },
+  {
+    "area": "Camden",
+    "year": 1998,
+    "value": 167634
+  },
+  {
+    "area": "Croydon",
+    "year": 1998,
+    "value": 82150
+  },
+  {
+    "area": "Ealing",
+    "year": 1998,
+    "value": 105396
+  },
+  {
+    "area": "Enfield",
+    "year": 1998,
+    "value": 88454
+  },
+  {
+    "area": "Greenwich",
+    "year": 1998,
+    "value": 80163
+  },
+  {
+    "area": "Hackney",
+    "year": 1998,
+    "value": 89602
+  },
+  {
+    "area": "Hammersmith and Fulham",
+    "year": 1998,
+    "value": 163082
+  },
+  {
+    "area": "Haringey",
+    "year": 1998,
+    "value": 100197
+  },
+  {
+    "area": "Harrow",
+    "year": 1998,
+    "value": 106081
+  },
+  {
+    "area": "Havering",
+    "year": 1998,
+    "value": 85787
+  },
+  {
+    "area": "Hillingdon",
+    "year": 1998,
+    "value": 89755
+  },
+  {
+    "area": "Hounslow",
+    "year": 1998,
+    "value": 103199
+  },
+  {
+    "area": "Islington",
+    "year": 1998,
+    "value": 143019
+  },
+  {
+    "area": "Kensington and Chelsea",
+    "year": 1998,
+    "value": 256760
+  },
+  {
+    "area": "Kingston upon Thames",
+    "year": 1998,
+    "value": 115625
+  },
+  {
+    "area": "Lambeth",
+    "year": 1998,
+    "value": 106334
+  },
+  {
+    "area": "Lewisham",
+    "year": 1998,
+    "value": 73034
+  },
+  {
+    "area": "Merton",
+    "year": 1998,
+    "value": 106928
+  },
+  {
+    "area": "Newham",
+    "year": 1998,
+    "value": 61000
+  },
+  {
+    "area": "Redbridge",
+    "year": 1998,
+    "value": 85370
+  },
+  {
+    "area": "Richmond upon Thames",
+    "year": 1998,
+    "value": 165246
+  },
+  {
+    "area": "Southwark",
+    "year": 1998,
+    "value": 101190
+  },
+  {
+    "area": "Sutton",
+    "year": 1998,
+    "value": 88984
+  },
+  {
+    "area": "Tower Hamlets",
+    "year": 1998,
+    "value": 110951
+  },
+  {
+    "area": "Waltham Forest",
+    "year": 1998,
+    "value": 71520
+  },
+  {
+    "area": "Wandsworth",
+    "year": 1998,
+    "value": 127009
+  },
+  {
+    "area": "Westminster",
+    "year": 1998,
+    "value": 194691
+  },
+  {
+    "area": "Inner London",
+    "year": 1998,
+    "value": 122063
+  },
+  {
+    "area": "Outer London",
+    "year": 1998,
+    "value": 95197
+  },
+  {
+    "area": "North East",
+    "year": 1998,
+    "value": 46813
+  },
+  {
+    "area": "North West",
+    "year": 1998,
+    "value": 50157
+  },
+  {
+    "area": "Yorkshire And The Humber",
+    "year": 1998,
+    "value": 50148
+  },
+  {
+    "area": "East Midlands",
+    "year": 1998,
+    "value": 54790
+  },
+  {
+    "area": "West Midlands",
+    "year": 1998,
+    "value": 59103
+  },
+  {
+    "area": "East of England",
+    "year": 1998,
+    "value": 71568
+  },
+  {
+    "area": "London",
+    "year": 1998,
+    "value": 105136
+  },
+  {
+    "area": "South East",
+    "year": 1998,
+    "value": 86946
+  },
+  {
+    "area": "South West",
+    "year": 1998,
+    "value": 69187
+  },
+  {
+    "area": "England",
+    "year": 1998,
+    "value": 68687
+  },
+  {
+    "area": "Wales",
+    "year": 1998,
+    "value": 49172
+  },
+  {
+    "area": "England And Wales",
+    "year": 1998,
+    "value": 67720
+  },
+  {
+    "area": "City of London",
+    "year": 1999,
+    "value": 199532
+  },
+  {
+    "area": "Barking and Dagenham",
+    "year": 1999,
+    "value": 66046
+  },
+  {
+    "area": "Barnet",
+    "year": 1999,
+    "value": 139143
+  },
+  {
+    "area": "Bexley",
+    "year": 1999,
+    "value": 86173
+  },
+  {
+    "area": "Brent",
+    "year": 1999,
+    "value": 111020
+  },
+  {
+    "area": "Bromley",
+    "year": 1999,
+    "value": 117612
+  },
+  {
+    "area": "Camden",
+    "year": 1999,
+    "value": 200920
+  },
+  {
+    "area": "Croydon",
+    "year": 1999,
+    "value": 93750
+  },
+  {
+    "area": "Ealing",
+    "year": 1999,
+    "value": 132000
+  },
+  {
+    "area": "Enfield",
+    "year": 1999,
+    "value": 98757
+  },
+  {
+    "area": "Greenwich",
+    "year": 1999,
+    "value": 95930
+  },
+  {
+    "area": "Hackney",
+    "year": 1999,
+    "value": 112355
+  },
+  {
+    "area": "Hammersmith and Fulham",
+    "year": 1999,
+    "value": 201435
+  },
+  {
+    "area": "Haringey",
+    "year": 1999,
+    "value": 116780
+  },
+  {
+    "area": "Harrow",
+    "year": 1999,
+    "value": 125189
+  },
+  {
+    "area": "Havering",
+    "year": 1999,
+    "value": 95235
+  },
+  {
+    "area": "Hillingdon",
+    "year": 1999,
+    "value": 106649
+  },
+  {
+    "area": "Hounslow",
+    "year": 1999,
+    "value": 121152
+  },
+  {
+    "area": "Islington",
+    "year": 1999,
+    "value": 174680
+  },
+  {
+    "area": "Kensington and Chelsea",
+    "year": 1999,
+    "value": 307417
+  },
+  {
+    "area": "Kingston upon Thames",
+    "year": 1999,
+    "value": 133695
+  },
+  {
+    "area": "Lambeth",
+    "year": 1999,
+    "value": 122492
+  },
+  {
+    "area": "Lewisham",
+    "year": 1999,
+    "value": 85988
+  },
+  {
+    "area": "Merton",
+    "year": 1999,
+    "value": 128561
+  },
+  {
+    "area": "Newham",
+    "year": 1999,
+    "value": 70414
+  },
+  {
+    "area": "Redbridge",
+    "year": 1999,
+    "value": 98501
+  },
+  {
+    "area": "Richmond upon Thames",
+    "year": 1999,
+    "value": 196172
+  },
+  {
+    "area": "Southwark",
+    "year": 1999,
+    "value": 119722
+  },
+  {
+    "area": "Sutton",
+    "year": 1999,
+    "value": 101398
+  },
+  {
+    "area": "Tower Hamlets",
+    "year": 1999,
+    "value": 139179
+  },
+  {
+    "area": "Waltham Forest",
+    "year": 1999,
+    "value": 80980
+  },
+  {
+    "area": "Wandsworth",
+    "year": 1999,
+    "value": 158988
+  },
+  {
+    "area": "Westminster",
+    "year": 1999,
+    "value": 230136
+  },
+  {
+    "area": "Inner London",
+    "year": 1999,
+    "value": 148084
+  },
+  {
+    "area": "Outer London",
+    "year": 1999,
+    "value": 110911
+  },
+  {
+    "area": "North East",
+    "year": 1999,
+    "value": 49256
+  },
+  {
+    "area": "North West",
+    "year": 1999,
+    "value": 53223
+  },
+  {
+    "area": "Yorkshire And The Humber",
+    "year": 1999,
+    "value": 53267
+  },
+  {
+    "area": "East Midlands",
+    "year": 1999,
+    "value": 59255
+  },
+  {
+    "area": "West Midlands",
+    "year": 1999,
+    "value": 64141
+  },
+  {
+    "area": "East of England",
+    "year": 1999,
+    "value": 79295
+  },
+  {
+    "area": "London",
+    "year": 1999,
+    "value": 124672
+  },
+  {
+    "area": "South East",
+    "year": 1999,
+    "value": 97943
+  },
+  {
+    "area": "South West",
+    "year": 1999,
+    "value": 77224
+  },
+  {
+    "area": "England",
+    "year": 1999,
+    "value": 76393
+  },
+  {
+    "area": "Wales",
+    "year": 1999,
+    "value": 52940
+  },
+  {
+    "area": "England And Wales",
+    "year": 1999,
+    "value": 75256
+  },
+  {
+    "area": "City of London",
+    "year": 2000,
+    "value": 221279
+  },
+  {
+    "area": "Barking and Dagenham",
+    "year": 2000,
+    "value": 79633
+  },
+  {
+    "area": "Barnet",
+    "year": 2000,
+    "value": 165174
+  },
+  {
+    "area": "Bexley",
+    "year": 2000,
+    "value": 99799
+  },
+  {
+    "area": "Brent",
+    "year": 2000,
+    "value": 136883
+  },
+  {
+    "area": "Bromley",
+    "year": 2000,
+    "value": 139606
+  },
+  {
+    "area": "Camden",
+    "year": 2000,
+    "value": 248758
+  },
+  {
+    "area": "Croydon",
+    "year": 2000,
+    "value": 111964
+  },
+  {
+    "area": "Ealing",
+    "year": 2000,
+    "value": 149857
+  },
+  {
+    "area": "Enfield",
+    "year": 2000,
+    "value": 115275
+  },
+  {
+    "area": "Greenwich",
+    "year": 2000,
+    "value": 112694
+  },
+  {
+    "area": "Hackney",
+    "year": 2000,
+    "value": 136134
+  },
+  {
+    "area": "Hammersmith and Fulham",
+    "year": 2000,
+    "value": 236105
+  },
+  {
+    "area": "Haringey",
+    "year": 2000,
+    "value": 137519
+  },
+  {
+    "area": "Harrow",
+    "year": 2000,
+    "value": 148126
+  },
+  {
+    "area": "Havering",
+    "year": 2000,
+    "value": 109995
+  },
+  {
+    "area": "Hillingdon",
+    "year": 2000,
+    "value": 126065
+  },
+  {
+    "area": "Hounslow",
+    "year": 2000,
+    "value": 142010
+  },
+  {
+    "area": "Islington",
+    "year": 2000,
+    "value": 208426
+  },
+  {
+    "area": "Kensington and Chelsea",
+    "year": 2000,
+    "value": 376733
+  },
+  {
+    "area": "Kingston upon Thames",
+    "year": 2000,
+    "value": 163063
+  },
+  {
+    "area": "Lambeth",
+    "year": 2000,
+    "value": 155274
+  },
+  {
+    "area": "Lewisham",
+    "year": 2000,
+    "value": 104968
+  },
+  {
+    "area": "Merton",
+    "year": 2000,
+    "value": 150496
+  },
+  {
+    "area": "Newham",
+    "year": 2000,
+    "value": 90837
+  },
+  {
+    "area": "Redbridge",
+    "year": 2000,
+    "value": 116192
+  },
+  {
+    "area": "Richmond upon Thames",
+    "year": 2000,
+    "value": 233915
+  },
+  {
+    "area": "Southwark",
+    "year": 2000,
+    "value": 154622
+  },
+  {
+    "area": "Sutton",
+    "year": 2000,
+    "value": 123367
+  },
+  {
+    "area": "Tower Hamlets",
+    "year": 2000,
+    "value": 164712
+  },
+  {
+    "area": "Waltham Forest",
+    "year": 2000,
+    "value": 97730
+  },
+  {
+    "area": "Wandsworth",
+    "year": 2000,
+    "value": 192474
+  },
+  {
+    "area": "Westminster",
+    "year": 2000,
+    "value": 277638
+  },
+  {
+    "area": "Inner London",
+    "year": 2000,
+    "value": 177218
+  },
+  {
+    "area": "Outer London",
+    "year": 2000,
+    "value": 130005
+  },
+  {
+    "area": "North East",
+    "year": 2000,
+    "value": 50587
+  },
+  {
+    "area": "North West",
+    "year": 2000,
+    "value": 55558
+  },
+  {
+    "area": "Yorkshire And The Humber",
+    "year": 2000,
+    "value": 56241
+  },
+  {
+    "area": "East Midlands",
+    "year": 2000,
+    "value": 63853
+  },
+  {
+    "area": "West Midlands",
+    "year": 2000,
+    "value": 69176
+  },
+  {
+    "area": "East of England",
+    "year": 2000,
+    "value": 90656
+  },
+  {
+    "area": "London",
+    "year": 2000,
+    "value": 147818
+  },
+  {
+    "area": "South East",
+    "year": 2000,
+    "value": 114471
+  },
+  {
+    "area": "South West",
+    "year": 2000,
+    "value": 88686
+  },
+  {
+    "area": "England",
+    "year": 2000,
+    "value": 83630
+  },
+  {
+    "area": "Wales",
+    "year": 2000,
+    "value": 56208
+  },
+  {
+    "area": "England And Wales",
+    "year": 2000,
+    "value": 82070
+  },
+  {
+    "area": "City of London",
+    "year": 2001,
+    "value": 241311
+  },
+  {
+    "area": "Barking and Dagenham",
+    "year": 2001,
+    "value": 90013
+  },
+  {
+    "area": "Barnet",
+    "year": 2001,
+    "value": 182706
+  },
+  {
+    "area": "Bexley",
+    "year": 2001,
+    "value": 115494
+  },
+  {
+    "area": "Brent",
+    "year": 2001,
+    "value": 155357
+  },
+  {
+    "area": "Bromley",
+    "year": 2001,
+    "value": 157611
+  },
+  {
+    "area": "Camden",
+    "year": 2001,
+    "value": 270548
+  },
+  {
+    "area": "Croydon",
+    "year": 2001,
+    "value": 128812
+  },
+  {
+    "area": "Ealing",
+    "year": 2001,
+    "value": 170117
+  },
+  {
+    "area": "Enfield",
+    "year": 2001,
+    "value": 134776
+  },
+  {
+    "area": "Greenwich",
+    "year": 2001,
+    "value": 131015
+  },
+  {
+    "area": "Hackney",
+    "year": 2001,
+    "value": 159462
+  },
+  {
+    "area": "Hammersmith and Fulham",
+    "year": 2001,
+    "value": 260646
+  },
+  {
+    "area": "Haringey",
+    "year": 2001,
+    "value": 158818
+  },
+  {
+    "area": "Harrow",
+    "year": 2001,
+    "value": 166612
+  },
+  {
+    "area": "Havering",
+    "year": 2001,
+    "value": 123556
+  },
+  {
+    "area": "Hillingdon",
+    "year": 2001,
+    "value": 142288
+  },
+  {
+    "area": "Hounslow",
+    "year": 2001,
+    "value": 160996
+  },
+  {
+    "area": "Islington",
+    "year": 2001,
+    "value": 222028
+  },
+  {
+    "area": "Kensington and Chelsea",
+    "year": 2001,
+    "value": 404635
+  },
+  {
+    "area": "Kingston upon Thames",
+    "year": 2001,
+    "value": 179257
+  },
+  {
+    "area": "Lambeth",
+    "year": 2001,
+    "value": 179448
+  },
+  {
+    "area": "Lewisham",
+    "year": 2001,
+    "value": 122668
+  },
+  {
+    "area": "Merton",
+    "year": 2001,
+    "value": 169376
+  },
+  {
+    "area": "Newham",
+    "year": 2001,
+    "value": 108751
+  },
+  {
+    "area": "Redbridge",
+    "year": 2001,
+    "value": 138501
+  },
+  {
+    "area": "Richmond upon Thames",
+    "year": 2001,
+    "value": 246452
+  },
+  {
+    "area": "Southwark",
+    "year": 2001,
+    "value": 180226
+  },
+  {
+    "area": "Sutton",
+    "year": 2001,
+    "value": 138058
+  },
+  {
+    "area": "Tower Hamlets",
+    "year": 2001,
+    "value": 183935
+  },
+  {
+    "area": "Waltham Forest",
+    "year": 2001,
+    "value": 115766
+  },
+  {
+    "area": "Wandsworth",
+    "year": 2001,
+    "value": 214161
+  },
+  {
+    "area": "Westminster",
+    "year": 2001,
+    "value": 307856
+  },
+  {
+    "area": "Inner London",
+    "year": 2001,
+    "value": 196856
+  },
+  {
+    "area": "Outer London",
+    "year": 2001,
+    "value": 147306
+  },
+  {
+    "area": "North East",
+    "year": 2001,
+    "value": 52948
+  },
+  {
+    "area": "North West",
+    "year": 2001,
+    "value": 60372
+  },
+  {
+    "area": "Yorkshire And The Humber",
+    "year": 2001,
+    "value": 59802
+  },
+  {
+    "area": "East Midlands",
+    "year": 2001,
+    "value": 71083
+  },
+  {
+    "area": "West Midlands",
+    "year": 2001,
+    "value": 77638
+  },
+  {
+    "area": "East of England",
+    "year": 2001,
+    "value": 103937
+  },
+  {
+    "area": "London",
+    "year": 2001,
+    "value": 165053
+  },
+  {
+    "area": "South East",
+    "year": 2001,
+    "value": 129266
+  },
+  {
+    "area": "South West",
+    "year": 2001,
+    "value": 101601
+  },
+  {
+    "area": "England",
+    "year": 2001,
+    "value": 93076
+  },
+  {
+    "area": "Wales",
+    "year": 2001,
+    "value": 60636
+  },
+  {
+    "area": "England And Wales",
+    "year": 2001,
+    "value": 91199
+  },
+  {
+    "area": "City of London",
+    "year": 2002,
+    "value": 264614
+  },
+  {
+    "area": "Barking and Dagenham",
+    "year": 2002,
+    "value": 113482
+  },
+  {
+    "area": "Barnet",
+    "year": 2002,
+    "value": 216268
+  },
+  {
+    "area": "Bexley",
+    "year": 2002,
+    "value": 139835
+  },
+  {
+    "area": "Brent",
+    "year": 2002,
+    "value": 187402
+  },
+  {
+    "area": "Bromley",
+    "year": 2002,
+    "value": 183004
+  },
+  {
+    "area": "Camden",
+    "year": 2002,
+    "value": 302143
+  },
+  {
+    "area": "Croydon",
+    "year": 2002,
+    "value": 154978
+  },
+  {
+    "area": "Ealing",
+    "year": 2002,
+    "value": 198765
+  },
+  {
+    "area": "Enfield",
+    "year": 2002,
+    "value": 156196
+  },
+  {
+    "area": "Greenwich",
+    "year": 2002,
+    "value": 156558
+  },
+  {
+    "area": "Hackney",
+    "year": 2002,
+    "value": 181198
+  },
+  {
+    "area": "Hammersmith and Fulham",
+    "year": 2002,
+    "value": 289399
+  },
+  {
+    "area": "Haringey",
+    "year": 2002,
+    "value": 189160
+  },
+  {
+    "area": "Harrow",
+    "year": 2002,
+    "value": 199052
+  },
+  {
+    "area": "Havering",
+    "year": 2002,
+    "value": 148374
+  },
+  {
+    "area": "Hillingdon",
+    "year": 2002,
+    "value": 167355
+  },
+  {
+    "area": "Hounslow",
+    "year": 2002,
+    "value": 186388
+  },
+  {
+    "area": "Islington",
+    "year": 2002,
+    "value": 251403
+  },
+  {
+    "area": "Kensington and Chelsea",
+    "year": 2002,
+    "value": 439126
+  },
+  {
+    "area": "Kingston upon Thames",
+    "year": 2002,
+    "value": 206832
+  },
+  {
+    "area": "Lambeth",
+    "year": 2002,
+    "value": 201688
+  },
+  {
+    "area": "Lewisham",
+    "year": 2002,
+    "value": 145636
+  },
+  {
+    "area": "Merton",
+    "year": 2002,
+    "value": 198016
+  },
+  {
+    "area": "Newham",
+    "year": 2002,
+    "value": 136215
+  },
+  {
+    "area": "Redbridge",
+    "year": 2002,
+    "value": 167187
+  },
+  {
+    "area": "Richmond upon Thames",
+    "year": 2002,
+    "value": 273653
+  },
+  {
+    "area": "Southwark",
+    "year": 2002,
+    "value": 195257
+  },
+  {
+    "area": "Sutton",
+    "year": 2002,
+    "value": 161503
+  },
+  {
+    "area": "Tower Hamlets",
+    "year": 2002,
+    "value": 201477
+  },
+  {
+    "area": "Waltham Forest",
+    "year": 2002,
+    "value": 146270
+  },
+  {
+    "area": "Wandsworth",
+    "year": 2002,
+    "value": 244738
+  },
+  {
+    "area": "Westminster",
+    "year": 2002,
+    "value": 345006
+  },
+  {
+    "area": "Inner London",
+    "year": 2002,
+    "value": 174451
+  },
+  {
+    "area": "Outer London",
+    "year": 2002,
+    "value": 106376
+  },
+  {
+    "area": "North East",
+    "year": 2002,
+    "value": 59902
+  },
+  {
+    "area": "North West",
+    "year": 2002,
+    "value": 68115
+  },
+  {
+    "area": "Yorkshire And The Humber",
+    "year": 2002,
+    "value": 69171
+  },
+  {
+    "area": "East Midlands",
+    "year": 2002,
+    "value": 85831
+  },
+  {
+    "area": "West Midlands",
+    "year": 2002,
+    "value": 91560
+  },
+  {
+    "area": "East of England",
+    "year": 2002,
+    "value": 126767
+  },
+  {
+    "area": "London",
+    "year": 2002,
+    "value": 192537
+  },
+  {
+    "area": "South East",
+    "year": 2002,
+    "value": 152450
+  },
+  {
+    "area": "South West",
+    "year": 2002,
+    "value": 124410
+  },
+  {
+    "area": "England",
+    "year": 2002,
+    "value": 108713
+  },
+  {
+    "area": "Wales",
+    "year": 2002,
+    "value": 70125
+  },
+  {
+    "area": "England And Wales",
+    "year": 2002,
+    "value": 225313
+  },
+  {
+    "area": "City of London",
+    "year": 2003,
+    "value": 249950
+  },
+  {
+    "area": "Barking and Dagenham",
+    "year": 2003,
+    "value": 125000
+  },
+  {
+    "area": "Barnet",
+    "year": 2003,
+    "value": 170000
+  },
+  {
+    "area": "Bexley",
+    "year": 2003,
+    "value": 130000
+  },
+  {
+    "area": "Brent",
+    "year": 2003,
+    "value": 160000
+  },
+  {
+    "area": "Bromley",
+    "year": 2003,
+    "value": 154950
+  },
+  {
+    "area": "Camden",
+    "year": 2003,
+    "value": 205000
+  },
+  {
+    "area": "Croydon",
+    "year": 2003,
+    "value": 138000
+  },
+  {
+    "area": "Ealing",
+    "year": 2003,
+    "value": 163000
+  },
+  {
+    "area": "Enfield",
+    "year": 2003,
+    "value": 140000
+  },
+  {
+    "area": "Greenwich",
+    "year": 2003,
+    "value": 140000
+  },
+  {
+    "area": "Hackney",
+    "year": 2003,
+    "value": 150000
+  },
+  {
+    "area": "Hammersmith and Fulham",
+    "year": 2003,
+    "value": 216651
+  },
+  {
+    "area": "Haringey",
+    "year": 2003,
+    "value": 150000
+  },
+  {
+    "area": "Harrow",
+    "year": 2003,
+    "value": 172000
+  },
+  {
+    "area": "Havering",
+    "year": 2003,
+    "value": 138000
+  },
+  {
+    "area": "Hillingdon",
+    "year": 2003,
+    "value": 150000
+  },
+  {
+    "area": "Hounslow",
+    "year": 2003,
+    "value": 160000
+  },
+  {
+    "area": "Islington",
+    "year": 2003,
+    "value": 184000
+  },
+  {
+    "area": "Kensington and Chelsea",
+    "year": 2003,
+    "value": 255500
+  },
+  {
+    "area": "Kingston upon Thames",
+    "year": 2003,
+    "value": 177000
+  },
+  {
+    "area": "Lambeth",
+    "year": 2003,
+    "value": 157000
+  },
+  {
+    "area": "Lewisham",
+    "year": 2003,
+    "value": 135000
+  },
+  {
+    "area": "Merton",
+    "year": 2003,
+    "value": 158500
+  },
+  {
+    "area": "Newham",
+    "year": 2003,
+    "value": 142000
+  },
+  {
+    "area": "Redbridge",
+    "year": 2003,
+    "value": 150000
+  },
+  {
+    "area": "Richmond upon Thames",
+    "year": 2003,
+    "value": 206000
+  },
+  {
+    "area": "Southwark",
+    "year": 2003,
+    "value": 155000
+  },
+  {
+    "area": "Sutton",
+    "year": 2003,
+    "value": 141000
+  },
+  {
+    "area": "Tower Hamlets",
+    "year": 2003,
+    "value": 165000
+  },
+  {
+    "area": "Waltham Forest",
+    "year": 2003,
+    "value": 139995
+  },
+  {
+    "area": "Wandsworth",
+    "year": 2003,
+    "value": 184625
+  },
+  {
+    "area": "Westminster",
+    "year": 2003,
+    "value": 240000
+  },
+  {
+    "area": "Inner London",
+    "year": 2003,
+    "value": 165000
+  },
+  {
+    "area": "Outer London",
+    "year": 2003,
+    "value": 149000
+  },
+  {
+    "area": "North East",
+    "year": 2003,
+    "value": 46500
+  },
+  {
+    "area": "North West",
+    "year": 2003,
+    "value": 53500
+  },
+  {
+    "area": "Yorkshire And The Humber",
+    "year": 2003,
+    "value": 57000
+  },
+  {
+    "area": "East Midlands",
+    "year": 2003,
+    "value": 76495
+  },
+  {
+    "area": "West Midlands",
+    "year": 2003,
+    "value": 77950
+  },
+  {
+    "area": "East of England",
+    "year": 2003,
+    "value": 109000
+  },
+  {
+    "area": "London",
+    "year": 2003,
+    "value": 154995
+  },
+  {
+    "area": "South East",
+    "year": 2003,
+    "value": 127000
+  },
+  {
+    "area": "South West",
+    "year": 2003,
+    "value": 109000
+  },
+  {
+    "area": "England",
+    "year": 2003,
+    "value": 85000
+  },
+  {
+    "area": "Wales",
+    "year": 2003,
+    "value": 59000
+  },
+  {
+    "area": "England And Wales",
+    "year": 2003,
+    "value": 83950
+  },
+  {
+    "area": "City of London",
+    "year": 2004,
+    "value": 246870
+  },
+  {
+    "area": "Barking and Dagenham",
+    "year": 2004,
+    "value": 159321
+  },
+  {
+    "area": "Barnet",
+    "year": 2004,
+    "value": 263479
+  },
+  {
+    "area": "Bexley",
+    "year": 2004,
+    "value": 177685
+  },
+  {
+    "area": "Brent",
+    "year": 2004,
+    "value": 228536
+  },
+  {
+    "area": "Bromley",
+    "year": 2004,
+    "value": 231415
+  },
+  {
+    "area": "Camden",
+    "year": 2004,
+    "value": 330032
+  },
+  {
+    "area": "Croydon",
+    "year": 2004,
+    "value": 192748
+  },
+  {
+    "area": "Ealing",
+    "year": 2004,
+    "value": 236033
+  },
+  {
+    "area": "Enfield",
+    "year": 2004,
+    "value": 199166
+  },
+  {
+    "area": "Greenwich",
+    "year": 2004,
+    "value": 191352
+  },
+  {
+    "area": "Hackney",
+    "year": 2004,
+    "value": 217947
+  },
+  {
+    "area": "Hammersmith and Fulham",
+    "year": 2004,
+    "value": 330746
+  },
+  {
+    "area": "Haringey",
+    "year": 2004,
+    "value": 225145
+  },
+  {
+    "area": "Harrow",
+    "year": 2004,
+    "value": 246866
+  },
+  {
+    "area": "Havering",
+    "year": 2004,
+    "value": 193978
+  },
+  {
+    "area": "Hillingdon",
+    "year": 2004,
+    "value": 207300
+  },
+  {
+    "area": "Hounslow",
+    "year": 2004,
+    "value": 223397
+  },
+  {
+    "area": "Islington",
+    "year": 2004,
+    "value": 276938
+  },
+  {
+    "area": "Kensington and Chelsea",
+    "year": 2004,
+    "value": 512371
+  },
+  {
+    "area": "Kingston upon Thames",
+    "year": 2004,
+    "value": 242571
+  },
+  {
+    "area": "Lambeth",
+    "year": 2004,
+    "value": 229237
+  },
+  {
+    "area": "Lewisham",
+    "year": 2004,
+    "value": 184874
+  },
+  {
+    "area": "Merton",
+    "year": 2004,
+    "value": 237707
+  },
+  {
+    "area": "Newham",
+    "year": 2004,
+    "value": 183714
+  },
+  {
+    "area": "Redbridge",
+    "year": 2004,
+    "value": 216690
+  },
+  {
+    "area": "Richmond upon Thames",
+    "year": 2004,
+    "value": 324917
+  },
+  {
+    "area": "Southwark",
+    "year": 2004,
+    "value": 229066
+  },
+  {
+    "area": "Sutton",
+    "year": 2004,
+    "value": 196467
+  },
+  {
+    "area": "Tower Hamlets",
+    "year": 2004,
+    "value": 237984
+  },
+  {
+    "area": "Waltham Forest",
+    "year": 2004,
+    "value": 186303
+  },
+  {
+    "area": "Wandsworth",
+    "year": 2004,
+    "value": 288437
+  },
+  {
+    "area": "Westminster",
+    "year": 2004,
+    "value": 388172
+  },
+  {
+    "area": "Inner London",
+    "year": 2004,
+    "value": 263274
+  },
+  {
+    "area": "Outer London",
+    "year": 2004,
+    "value": 216453
+  },
+  {
+    "area": "North East",
+    "year": 2004,
+    "value": 93676
+  },
+  {
+    "area": "North West",
+    "year": 2004,
+    "value": 102427
+  },
+  {
+    "area": "Yorkshire And The Humber",
+    "year": 2004,
+    "value": 106018
+  },
+  {
+    "area": "East Midlands",
+    "year": 2004,
+    "value": 127092
+  },
+  {
+    "area": "West Midlands",
+    "year": 2004,
+    "value": 130416
+  },
+  {
+    "area": "East of England",
+    "year": 2004,
+    "value": 167570
+  },
+  {
+    "area": "London",
+    "year": 2004,
+    "value": 233720
+  },
+  {
+    "area": "South East",
+    "year": 2004,
+    "value": 193147
+  },
+  {
+    "area": "South West",
+    "year": 2004,
+    "value": 168989
+  },
+  {
+    "area": "England",
+    "year": 2004,
+    "value": 148640
+  },
+  {
+    "area": "Wales",
+    "year": 2004,
+    "value": 110438
+  },
+  {
+    "area": "England And Wales",
+    "year": 2004,
+    "value": 146633
+  },
+  {
+    "area": "City of London",
+    "year": 2005,
+    "value": 315594
+  },
+  {
+    "area": "Barking and Dagenham",
+    "year": 2005,
+    "value": 164912
+  },
+  {
+    "area": "Barnet",
+    "year": 2005,
+    "value": 271865
+  },
+  {
+    "area": "Bexley",
+    "year": 2005,
+    "value": 184523
+  },
+  {
+    "area": "Brent",
+    "year": 2005,
+    "value": 242117
+  },
+  {
+    "area": "Bromley",
+    "year": 2005,
+    "value": 239579
+  },
+  {
+    "area": "Camden",
+    "year": 2005,
+    "value": 357077
+  },
+  {
+    "area": "Croydon",
+    "year": 2005,
+    "value": 200383
+  },
+  {
+    "area": "Ealing",
+    "year": 2005,
+    "value": 245252
+  },
+  {
+    "area": "Enfield",
+    "year": 2005,
+    "value": 207405
+  },
+  {
+    "area": "Greenwich",
+    "year": 2005,
+    "value": 208293
+  },
+  {
+    "area": "Hackney",
+    "year": 2005,
+    "value": 227961
+  },
+  {
+    "area": "Hammersmith and Fulham",
+    "year": 2005,
+    "value": 356866
+  },
+  {
+    "area": "Haringey",
+    "year": 2005,
+    "value": 235867
+  },
+  {
+    "area": "Harrow",
+    "year": 2005,
+    "value": 256808
+  },
+  {
+    "area": "Havering",
+    "year": 2005,
+    "value": 203930
+  },
+  {
+    "area": "Hillingdon",
+    "year": 2005,
+    "value": 215459
+  },
+  {
+    "area": "Hounslow",
+    "year": 2005,
+    "value": 230658
+  },
+  {
+    "area": "Islington",
+    "year": 2005,
+    "value": 294137
+  },
+  {
+    "area": "Kensington and Chelsea",
+    "year": 2005,
+    "value": 535967
+  },
+  {
+    "area": "Kingston upon Thames",
+    "year": 2005,
+    "value": 251723
+  },
+  {
+    "area": "Lambeth",
+    "year": 2005,
+    "value": 239281
+  },
+  {
+    "area": "Lewisham",
+    "year": 2005,
+    "value": 192048
+  },
+  {
+    "area": "Merton",
+    "year": 2005,
+    "value": 245419
+  },
+  {
+    "area": "Newham",
+    "year": 2005,
+    "value": 194350
+  },
+  {
+    "area": "Redbridge",
+    "year": 2005,
+    "value": 222827
+  },
+  {
+    "area": "Richmond upon Thames",
+    "year": 2005,
+    "value": 333503
+  },
+  {
+    "area": "Southwark",
+    "year": 2005,
+    "value": 244724
+  },
+  {
+    "area": "Sutton",
+    "year": 2005,
+    "value": 208085
+  },
+  {
+    "area": "Tower Hamlets",
+    "year": 2005,
+    "value": 243891
+  },
+  {
+    "area": "Waltham Forest",
+    "year": 2005,
+    "value": 196234
+  },
+  {
+    "area": "Wandsworth",
+    "year": 2005,
+    "value": 302557
+  },
+  {
+    "area": "Westminster",
+    "year": 2005,
+    "value": 416083
+  },
+  {
+    "area": "Inner London",
+    "year": 2005,
+    "value": 280344
+  },
+  {
+    "area": "Outer London",
+    "year": 2005,
+    "value": 225727
+  },
+  {
+    "area": "North East",
+    "year": 2005,
+    "value": 106591
+  },
+  {
+    "area": "North West",
+    "year": 2005,
+    "value": 115977
+  },
+  {
+    "area": "Yorkshire And The Humber",
+    "year": 2005,
+    "value": 119109
+  },
+  {
+    "area": "East Midlands",
+    "year": 2005,
+    "value": 136426
+  },
+  {
+    "area": "West Midlands",
+    "year": 2005,
+    "value": 138983
+  },
+  {
+    "area": "East of England",
+    "year": 2005,
+    "value": 176484
+  },
+  {
+    "area": "London",
+    "year": 2005,
+    "value": 246185
+  },
+  {
+    "area": "South East",
+    "year": 2005,
+    "value": 201684
+  },
+  {
+    "area": "South West",
+    "year": 2005,
+    "value": 176985
+  },
+  {
+    "area": "England",
+    "year": 2005,
+    "value": 160214
+  },
+  {
+    "area": "Wales",
+    "year": 2005,
+    "value": 124448
+  },
+  {
+    "area": "England And Wales",
+    "year": 2005,
+    "value": 158398
+  },
+  {
+    "area": "City of London",
+    "year": 2006,
+    "value": 339413
+  },
+  {
+    "area": "Barking and Dagenham",
+    "year": 2006,
+    "value": 170278
+  },
+  {
+    "area": "Barnet",
+    "year": 2006,
+    "value": 290952
+  },
+  {
+    "area": "Bexley",
+    "year": 2006,
+    "value": 196565
+  },
+  {
+    "area": "Brent",
+    "year": 2006,
+    "value": 257164
+  },
+  {
+    "area": "Bromley",
+    "year": 2006,
+    "value": 251376
+  },
+  {
+    "area": "Camden",
+    "year": 2006,
+    "value": 391732
+  },
+  {
+    "area": "Croydon",
+    "year": 2006,
+    "value": 211597
+  },
+  {
+    "area": "Ealing",
+    "year": 2006,
+    "value": 261806
+  },
+  {
+    "area": "Enfield",
+    "year": 2006,
+    "value": 219163
+  },
+  {
+    "area": "Greenwich",
+    "year": 2006,
+    "value": 217515
+  },
+  {
+    "area": "Hackney",
+    "year": 2006,
+    "value": 251876
+  },
+  {
+    "area": "Hammersmith and Fulham",
+    "year": 2006,
+    "value": 385676
+  },
+  {
+    "area": "Haringey",
+    "year": 2006,
+    "value": 257403
+  },
+  {
+    "area": "Harrow",
+    "year": 2006,
+    "value": 268245
+  },
+  {
+    "area": "Havering",
+    "year": 2006,
+    "value": 211378
+  },
+  {
+    "area": "Hillingdon",
+    "year": 2006,
+    "value": 231892
+  },
+  {
+    "area": "Hounslow",
+    "year": 2006,
+    "value": 249481
+  },
+  {
+    "area": "Islington",
+    "year": 2006,
+    "value": 319029
+  },
+  {
+    "area": "Kensington and Chelsea",
+    "year": 2006,
+    "value": 610110
+  },
+  {
+    "area": "Kingston upon Thames",
+    "year": 2006,
+    "value": 271111
+  },
+  {
+    "area": "Lambeth",
+    "year": 2006,
+    "value": 259636
+  },
+  {
+    "area": "Lewisham",
+    "year": 2006,
+    "value": 207295
+  },
+  {
+    "area": "Merton",
+    "year": 2006,
+    "value": 261279
+  },
+  {
+    "area": "Newham",
+    "year": 2006,
+    "value": 203961
+  },
+  {
+    "area": "Redbridge",
+    "year": 2006,
+    "value": 237729
+  },
+  {
+    "area": "Richmond upon Thames",
+    "year": 2006,
+    "value": 363624
+  },
+  {
+    "area": "Southwark",
+    "year": 2006,
+    "value": 256734
+  },
+  {
+    "area": "Sutton",
+    "year": 2006,
+    "value": 219034
+  },
+  {
+    "area": "Tower Hamlets",
+    "year": 2006,
+    "value": 258170
+  },
+  {
+    "area": "Waltham Forest",
+    "year": 2006,
+    "value": 208790
+  },
+  {
+    "area": "Wandsworth",
+    "year": 2006,
+    "value": 334313
+  },
+  {
+    "area": "Westminster",
+    "year": 2006,
+    "value": 453184
+  },
+  {
+    "area": "Inner London",
+    "year": 2006,
+    "value": 305440
+  },
+  {
+    "area": "Outer London",
+    "year": 2006,
+    "value": 239908
+  },
+  {
+    "area": "North East",
+    "year": 2006,
+    "value": 118295
+  },
+  {
+    "area": "North West",
+    "year": 2006,
+    "value": 129203
+  },
+  {
+    "area": "Yorkshire And The Humber",
+    "year": 2006,
+    "value": 131085
+  },
+  {
+    "area": "East Midlands",
+    "year": 2006,
+    "value": 142802
+  },
+  {
+    "area": "West Midlands",
+    "year": 2006,
+    "value": 148364
+  },
+  {
+    "area": "East of England",
+    "year": 2006,
+    "value": 187012
+  },
+  {
+    "area": "London",
+    "year": 2006,
+    "value": 264206
+  },
+  {
+    "area": "South East",
+    "year": 2006,
+    "value": 213297
+  },
+  {
+    "area": "South West",
+    "year": 2006,
+    "value": 187260
+  },
+  {
+    "area": "England",
+    "year": 2006,
+    "value": 172812
+  },
+  {
+    "area": "Wales",
+    "year": 2006,
+    "value": 134798
+  },
+  {
+    "area": "England And Wales",
+    "year": 2006,
+    "value": 170889
+  },
+  {
+    "area": "City of London",
+    "year": 2007,
+    "value": 464276
+  },
+  {
+    "area": "Barking and Dagenham",
+    "year": 2007,
+    "value": 187134
+  },
+  {
+    "area": "Barnet",
+    "year": 2007,
+    "value": 319738
+  },
+  {
+    "area": "Bexley",
+    "year": 2007,
+    "value": 210775
+  },
+  {
+    "area": "Brent",
+    "year": 2007,
+    "value": 288906
+  },
+  {
+    "area": "Bromley",
+    "year": 2007,
+    "value": 276927
+  },
+  {
+    "area": "Camden",
+    "year": 2007,
+    "value": 446088
+  },
+  {
+    "area": "Croydon",
+    "year": 2007,
+    "value": 227122
+  },
+  {
+    "area": "Ealing",
+    "year": 2007,
+    "value": 290336
+  },
+  {
+    "area": "Enfield",
+    "year": 2007,
+    "value": 239586
+  },
+  {
+    "area": "Greenwich",
+    "year": 2007,
+    "value": 235128
+  },
+  {
+    "area": "Hackney",
+    "year": 2007,
+    "value": 283038
+  },
+  {
+    "area": "Hammersmith and Fulham",
+    "year": 2007,
+    "value": 451173
+  },
+  {
+    "area": "Haringey",
+    "year": 2007,
+    "value": 295222
+  },
+  {
+    "area": "Harrow",
+    "year": 2007,
+    "value": 289300
+  },
+  {
+    "area": "Havering",
+    "year": 2007,
+    "value": 227764
+  },
+  {
+    "area": "Hillingdon",
+    "year": 2007,
+    "value": 249397
+  },
+  {
+    "area": "Hounslow",
+    "year": 2007,
+    "value": 273845
+  },
+  {
+    "area": "Islington",
+    "year": 2007,
+    "value": 375652
+  },
+  {
+    "area": "Kensington and Chelsea",
+    "year": 2007,
+    "value": 712295
+  },
+  {
+    "area": "Kingston upon Thames",
+    "year": 2007,
+    "value": 307574
+  },
+  {
+    "area": "Lambeth",
+    "year": 2007,
+    "value": 298989
+  },
+  {
+    "area": "Lewisham",
+    "year": 2007,
+    "value": 229417
+  },
+  {
+    "area": "Merton",
+    "year": 2007,
+    "value": 299847
+  },
+  {
+    "area": "Newham",
+    "year": 2007,
+    "value": 221262
+  },
+  {
+    "area": "Redbridge",
+    "year": 2007,
+    "value": 259452
+  },
+  {
+    "area": "Richmond upon Thames",
+    "year": 2007,
+    "value": 418857
+  },
+  {
+    "area": "Southwark",
+    "year": 2007,
+    "value": 293739
+  },
+  {
+    "area": "Sutton",
+    "year": 2007,
+    "value": 239407
+  },
+  {
+    "area": "Tower Hamlets",
+    "year": 2007,
+    "value": 302291
+  },
+  {
+    "area": "Waltham Forest",
+    "year": 2007,
+    "value": 234545
+  },
+  {
+    "area": "Wandsworth",
+    "year": 2007,
+    "value": 384761
+  },
+  {
+    "area": "Westminster",
+    "year": 2007,
+    "value": 524163
+  },
+  {
+    "area": "Inner London",
+    "year": 2007,
+    "value": 345186
+  },
+  {
+    "area": "Outer London",
+    "year": 2007,
+    "value": 262310
+  },
+  {
+    "area": "North East",
+    "year": 2007,
+    "value": 124303
+  },
+  {
+    "area": "North West",
+    "year": 2007,
+    "value": 138170
+  },
+  {
+    "area": "Yorkshire And The Humber",
+    "year": 2007,
+    "value": 139134
+  },
+  {
+    "area": "East Midlands",
+    "year": 2007,
+    "value": 149977
+  },
+  {
+    "area": "West Midlands",
+    "year": 2007,
+    "value": 153841
+  },
+  {
+    "area": "East of England",
+    "year": 2007,
+    "value": 200246
+  },
+  {
+    "area": "London",
+    "year": 2007,
+    "value": 291792
+  },
+  {
+    "area": "South East",
+    "year": 2007,
+    "value": 228919
+  },
+  {
+    "area": "South West",
+    "year": 2007,
+    "value": 202142
+  },
+  {
+    "area": "England",
+    "year": 2007,
+    "value": 184584
+  },
+  {
+    "area": "Wales",
+    "year": 2007,
+    "value": 142876
+  },
+  {
+    "area": "England And Wales",
+    "year": 2007,
+    "value": 182441
+  },
+  {
+    "area": "City of London",
+    "year": 2008,
+    "value": 384367
+  },
+  {
+    "area": "Barking and Dagenham",
+    "year": 2008,
+    "value": 190612
+  },
+  {
+    "area": "Barnet",
+    "year": 2008,
+    "value": 312400
+  },
+  {
+    "area": "Bexley",
+    "year": 2008,
+    "value": 206960
+  },
+  {
+    "area": "Brent",
+    "year": 2008,
+    "value": 289849
+  },
+  {
+    "area": "Bromley",
+    "year": 2008,
+    "value": 268830
+  },
+  {
+    "area": "Camden",
+    "year": 2008,
+    "value": 483016
+  },
+  {
+    "area": "Croydon",
+    "year": 2008,
+    "value": 230266
+  },
+  {
+    "area": "Ealing",
+    "year": 2008,
+    "value": 289661
+  },
+  {
+    "area": "Enfield",
+    "year": 2008,
+    "value": 238685
+  },
+  {
+    "area": "Greenwich",
+    "year": 2008,
+    "value": 238562
+  },
+  {
+    "area": "Hackney",
+    "year": 2008,
+    "value": 287492
+  },
+  {
+    "area": "Hammersmith and Fulham",
+    "year": 2008,
+    "value": 462108
+  },
+  {
+    "area": "Haringey",
+    "year": 2008,
+    "value": 288579
+  },
+  {
+    "area": "Harrow",
+    "year": 2008,
+    "value": 284512
+  },
+  {
+    "area": "Havering",
+    "year": 2008,
+    "value": 226383
+  },
+  {
+    "area": "Hillingdon",
+    "year": 2008,
+    "value": 247604
+  },
+  {
+    "area": "Hounslow",
+    "year": 2008,
+    "value": 271161
+  },
+  {
+    "area": "Islington",
+    "year": 2008,
+    "value": 374153
+  },
+  {
+    "area": "Kensington and Chelsea",
+    "year": 2008,
+    "value": 792508
+  },
+  {
+    "area": "Kingston upon Thames",
+    "year": 2008,
+    "value": 310212
+  },
+  {
+    "area": "Lambeth",
+    "year": 2008,
+    "value": 298406
+  },
+  {
+    "area": "Lewisham",
+    "year": 2008,
+    "value": 232155
+  },
+  {
+    "area": "Merton",
+    "year": 2008,
+    "value": 297457
+  },
+  {
+    "area": "Newham",
+    "year": 2008,
+    "value": 231873
+  },
+  {
+    "area": "Redbridge",
+    "year": 2008,
+    "value": 258603
+  },
+  {
+    "area": "Richmond upon Thames",
+    "year": 2008,
+    "value": 414272
+  },
+  {
+    "area": "Southwark",
+    "year": 2008,
+    "value": 291123
+  },
+  {
+    "area": "Sutton",
+    "year": 2008,
+    "value": 237514
+  },
+  {
+    "area": "Tower Hamlets",
+    "year": 2008,
+    "value": 301604
+  },
+  {
+    "area": "Waltham Forest",
+    "year": 2008,
+    "value": 226675
+  },
+  {
+    "area": "Wandsworth",
+    "year": 2008,
+    "value": 379791
+  },
+  {
+    "area": "Westminster",
+    "year": 2008,
+    "value": 553917
+  },
+  {
+    "area": "Inner London",
+    "year": 2008,
+    "value": 351168
+  },
+  {
+    "area": "Outer London",
+    "year": 2008,
+    "value": 260966
+  },
+  {
+    "area": "North East",
+    "year": 2008,
+    "value": 122092
+  },
+  {
+    "area": "North West",
+    "year": 2008,
+    "value": 134185
+  },
+  {
+    "area": "Yorkshire And The Humber",
+    "year": 2008,
+    "value": 134462
+  },
+  {
+    "area": "East Midlands",
+    "year": 2008,
+    "value": 143243
+  },
+  {
+    "area": "West Midlands",
+    "year": 2008,
+    "value": 149104
+  },
+  {
+    "area": "East of England",
+    "year": 2008,
+    "value": 195563
+  },
+  {
+    "area": "London",
+    "year": 2008,
+    "value": 292993
+  },
+  {
+    "area": "South East",
+    "year": 2008,
+    "value": 225134
+  },
+  {
+    "area": "South West",
+    "year": 2008,
+    "value": 194356
+  },
+  {
+    "area": "England",
+    "year": 2008,
+    "value": 179647
+  },
+  {
+    "area": "Wales",
+    "year": 2008,
+    "value": 136173
+  },
+  {
+    "area": "England And Wales",
+    "year": 2008,
+    "value": 177262
+  },
+  {
+    "area": "City of London",
+    "year": 2009,
+    "value": 384890
+  },
+  {
+    "area": "Barking and Dagenham",
+    "year": 2009,
+    "value": 160522
+  },
+  {
+    "area": "Barnet",
+    "year": 2009,
+    "value": 312506
+  },
+  {
+    "area": "Bexley",
+    "year": 2009,
+    "value": 197780
+  },
+  {
+    "area": "Brent",
+    "year": 2009,
+    "value": 278357
+  },
+  {
+    "area": "Bromley",
+    "year": 2009,
+    "value": 263599
+  },
+  {
+    "area": "Camden",
+    "year": 2009,
+    "value": 454091
+  },
+  {
+    "area": "Croydon",
+    "year": 2009,
+    "value": 209742
+  },
+  {
+    "area": "Ealing",
+    "year": 2009,
+    "value": 283830
+  },
+  {
+    "area": "Enfield",
+    "year": 2009,
+    "value": 234612
+  },
+  {
+    "area": "Greenwich",
+    "year": 2009,
+    "value": 235174
+  },
+  {
+    "area": "Hackney",
+    "year": 2009,
+    "value": 281512
+  },
+  {
+    "area": "Hammersmith and Fulham",
+    "year": 2009,
+    "value": 457036
+  },
+  {
+    "area": "Haringey",
+    "year": 2009,
+    "value": 288015
+  },
+  {
+    "area": "Harrow",
+    "year": 2009,
+    "value": 262538
+  },
+  {
+    "area": "Havering",
+    "year": 2009,
+    "value": 208307
+  },
+  {
+    "area": "Hillingdon",
+    "year": 2009,
+    "value": 234334
+  },
+  {
+    "area": "Hounslow",
+    "year": 2009,
+    "value": 261924
+  },
+  {
+    "area": "Islington",
+    "year": 2009,
+    "value": 359826
+  },
+  {
+    "area": "Kensington and Chelsea",
+    "year": 2009,
+    "value": 740653
+  },
+  {
+    "area": "Kingston upon Thames",
+    "year": 2009,
+    "value": 288271
+  },
+  {
+    "area": "Lambeth",
+    "year": 2009,
+    "value": 294281
+  },
+  {
+    "area": "Lewisham",
+    "year": 2009,
+    "value": 220329
+  },
+  {
+    "area": "Merton",
+    "year": 2009,
+    "value": 285475
+  },
+  {
+    "area": "Newham",
+    "year": 2009,
+    "value": 195786
+  },
+  {
+    "area": "Redbridge",
+    "year": 2009,
+    "value": 233807
+  },
+  {
+    "area": "Richmond upon Thames",
+    "year": 2009,
+    "value": 413200
+  },
+  {
+    "area": "Southwark",
+    "year": 2009,
+    "value": 295242
+  },
+  {
+    "area": "Sutton",
+    "year": 2009,
+    "value": 217694
+  },
+  {
+    "area": "Tower Hamlets",
+    "year": 2009,
+    "value": 302714
+  },
+  {
+    "area": "Waltham Forest",
+    "year": 2009,
+    "value": 209069
+  },
+  {
+    "area": "Wandsworth",
+    "year": 2009,
+    "value": 381982
+  },
+  {
+    "area": "Westminster",
+    "year": 2009,
+    "value": 551820
+  },
+  {
+    "area": "Inner London",
+    "year": 2009,
+    "value": 356875
+  },
+  {
+    "area": "Outer London",
+    "year": 2009,
+    "value": 250184
+  },
+  {
+    "area": "North East",
+    "year": 2009,
+    "value": 120570
+  },
+  {
+    "area": "North West",
+    "year": 2009,
+    "value": 131227
+  },
+  {
+    "area": "Yorkshire And The Humber",
+    "year": 2009,
+    "value": 132046
+  },
+  {
+    "area": "East Midlands",
+    "year": 2009,
+    "value": 138932
+  },
+  {
+    "area": "West Midlands",
+    "year": 2009,
+    "value": 145866
+  },
+  {
+    "area": "East of England",
+    "year": 2009,
+    "value": 185891
+  },
+  {
+    "area": "London",
+    "year": 2009,
+    "value": 289411
+  },
+  {
+    "area": "South East",
+    "year": 2009,
+    "value": 214722
+  },
+  {
+    "area": "South West",
+    "year": 2009,
+    "value": 185649
+  },
+  {
+    "area": "England",
+    "year": 2009,
+    "value": 176787
+  },
+  {
+    "area": "Wales",
+    "year": 2009,
+    "value": 132593
+  },
+  {
+    "area": "England And Wales",
+    "year": 2009,
+    "value": 174451
+  },
+  {
+    "area": "City of London",
+    "year": 2010,
+    "value": 470820
+  },
+  {
+    "area": "Barking and Dagenham",
+    "year": 2010,
+    "value": 172275
+  },
+  {
+    "area": "Barnet",
+    "year": 2010,
+    "value": 353959
+  },
+  {
+    "area": "Bexley",
+    "year": 2010,
+    "value": 212084
+  },
+  {
+    "area": "Brent",
+    "year": 2010,
+    "value": 294668
+  },
+  {
+    "area": "Bromley",
+    "year": 2010,
+    "value": 286900
+  },
+  {
+    "area": "Camden",
+    "year": 2010,
+    "value": 528539
+  },
+  {
+    "area": "Croydon",
+    "year": 2010,
+    "value": 228485
+  },
+  {
+    "area": "Ealing",
+    "year": 2010,
+    "value": 301020
+  },
+  {
+    "area": "Enfield",
+    "year": 2010,
+    "value": 249264
+  },
+  {
+    "area": "Greenwich",
+    "year": 2010,
+    "value": 260049
+  },
+  {
+    "area": "Hackney",
+    "year": 2010,
+    "value": 304604
+  },
+  {
+    "area": "Hammersmith and Fulham",
+    "year": 2010,
+    "value": 511016
+  },
+  {
+    "area": "Haringey",
+    "year": 2010,
+    "value": 319949
+  },
+  {
+    "area": "Harrow",
+    "year": 2010,
+    "value": 296500
+  },
+  {
+    "area": "Havering",
+    "year": 2010,
+    "value": 232413
+  },
+  {
+    "area": "Hillingdon",
+    "year": 2010,
+    "value": 256289
+  },
+  {
+    "area": "Hounslow",
+    "year": 2010,
+    "value": 280467
+  },
+  {
+    "area": "Islington",
+    "year": 2010,
+    "value": 410887
+  },
+  {
+    "area": "Kensington and Chelsea",
+    "year": 2010,
+    "value": 854409
+  },
+  {
+    "area": "Kingston upon Thames",
+    "year": 2010,
+    "value": 319743
+  },
+  {
+    "area": "Lambeth",
+    "year": 2010,
+    "value": 319513
+  },
+  {
+    "area": "Lewisham",
+    "year": 2010,
+    "value": 238960
+  },
+  {
+    "area": "Merton",
+    "year": 2010,
+    "value": 327413
+  },
+  {
+    "area": "Newham",
+    "year": 2010,
+    "value": 209756
+  },
+  {
+    "area": "Redbridge",
+    "year": 2010,
+    "value": 257919
+  },
+  {
+    "area": "Richmond upon Thames",
+    "year": 2010,
+    "value": 445750
+  },
+  {
+    "area": "Southwark",
+    "year": 2010,
+    "value": 326943
+  },
+  {
+    "area": "Sutton",
+    "year": 2010,
+    "value": 240960
+  },
+  {
+    "area": "Tower Hamlets",
+    "year": 2010,
+    "value": 312834
+  },
+  {
+    "area": "Waltham Forest",
+    "year": 2010,
+    "value": 223017
+  },
+  {
+    "area": "Wandsworth",
+    "year": 2010,
+    "value": 413637
+  },
+  {
+    "area": "Westminster",
+    "year": 2010,
+    "value": 618654
+  },
+  {
+    "area": "Inner London",
+    "year": 2010,
+    "value": 390736
+  },
+  {
+    "area": "Outer London",
+    "year": 2010,
+    "value": 276088
+  },
+  {
+    "area": "North East",
+    "year": 2010,
+    "value": 122309
+  },
+  {
+    "area": "North West",
+    "year": 2010,
+    "value": 133350
+  },
+  {
+    "area": "Yorkshire And The Humber",
+    "year": 2010,
+    "value": 137447
+  },
+  {
+    "area": "East Midlands",
+    "year": 2010,
+    "value": 143754
+  },
+  {
+    "area": "West Midlands",
+    "year": 2010,
+    "value": 152580
+  },
+  {
+    "area": "East of England",
+    "year": 2010,
+    "value": 202886
+  },
+  {
+    "area": "London",
+    "year": 2010,
+    "value": 320162
+  },
+  {
+    "area": "South East",
+    "year": 2010,
+    "value": 238220
+  },
+  {
+    "area": "South West",
+    "year": 2010,
+    "value": 199970
+  },
+  {
+    "area": "England",
+    "year": 2010,
+    "value": 191069
+  },
+  {
+    "area": "Wales",
+    "year": 2010,
+    "value": 134320
+  },
+  {
+    "area": "England And Wales",
+    "year": 2010,
+    "value": 187978
+  },
+  {
+    "area": "City of London",
+    "year": 2011,
+    "value": 510605
+  },
+  {
+    "area": "Barking and Dagenham",
+    "year": 2011,
+    "value": 173260
+  },
+  {
+    "area": "Barnet",
+    "year": 2011,
+    "value": 353457
+  },
+  {
+    "area": "Bexley",
+    "year": 2011,
+    "value": 210307
+  },
+  {
+    "area": "Brent",
+    "year": 2011,
+    "value": 310766
+  },
+  {
+    "area": "Bromley",
+    "year": 2011,
+    "value": 289389
+  },
+  {
+    "area": "Camden",
+    "year": 2011,
+    "value": 539390
+  },
+  {
+    "area": "Croydon",
+    "year": 2011,
+    "value": 227127
+  },
+  {
+    "area": "Ealing",
+    "year": 2011,
+    "value": 316393
+  },
+  {
+    "area": "Enfield",
+    "year": 2011,
+    "value": 250309
+  },
+  {
+    "area": "Greenwich",
+    "year": 2011,
+    "value": 258634
+  },
+  {
+    "area": "Hackney",
+    "year": 2011,
+    "value": 313657
+  },
+  {
+    "area": "Hammersmith and Fulham",
+    "year": 2011,
+    "value": 513383
+  },
+  {
+    "area": "Haringey",
+    "year": 2011,
+    "value": 331681
+  },
+  {
+    "area": "Harrow",
+    "year": 2011,
+    "value": 302691
+  },
+  {
+    "area": "Havering",
+    "year": 2011,
+    "value": 226735
+  },
+  {
+    "area": "Hillingdon",
+    "year": 2011,
+    "value": 259273
+  },
+  {
+    "area": "Hounslow",
+    "year": 2011,
+    "value": 292127
+  },
+  {
+    "area": "Islington",
+    "year": 2011,
+    "value": 427356
+  },
+  {
+    "area": "Kensington and Chelsea",
+    "year": 2011,
+    "value": 886061
+  },
+  {
+    "area": "Kingston upon Thames",
+    "year": 2011,
+    "value": 321577
+  },
+  {
+    "area": "Lambeth",
+    "year": 2011,
+    "value": 323469
+  },
+  {
+    "area": "Lewisham",
+    "year": 2011,
+    "value": 243377
+  },
+  {
+    "area": "Merton",
+    "year": 2011,
+    "value": 334510
+  },
+  {
+    "area": "Newham",
+    "year": 2011,
+    "value": 205255
+  },
+  {
+    "area": "Redbridge",
+    "year": 2011,
+    "value": 266629
+  },
+  {
+    "area": "Richmond upon Thames",
+    "year": 2011,
+    "value": 461962
+  },
+  {
+    "area": "Southwark",
+    "year": 2011,
+    "value": 338468
+  },
+  {
+    "area": "Sutton",
+    "year": 2011,
+    "value": 239821
+  },
+  {
+    "area": "Tower Hamlets",
+    "year": 2011,
+    "value": 310750
+  },
+  {
+    "area": "Waltham Forest",
+    "year": 2011,
+    "value": 225284
+  },
+  {
+    "area": "Wandsworth",
+    "year": 2011,
+    "value": 420934
+  },
+  {
+    "area": "Westminster",
+    "year": 2011,
+    "value": 671296
+  },
+  {
+    "area": "Inner London",
+    "year": 2011,
+    "value": 400928
+  },
+  {
+    "area": "Outer London",
+    "year": 2011,
+    "value": 278870
+  },
+  {
+    "area": "North East",
+    "year": 2011,
+    "value": 115750
+  },
+  {
+    "area": "North West",
+    "year": 2011,
+    "value": 129326
+  },
+  {
+    "area": "Yorkshire And The Humber",
+    "year": 2011,
+    "value": 132177
+  },
+  {
+    "area": "East Midlands",
+    "year": 2011,
+    "value": 140227
+  },
+  {
+    "area": "West Midlands",
+    "year": 2011,
+    "value": 147558
+  },
+  {
+    "area": "East of England",
+    "year": 2011,
+    "value": 198511
+  },
+  {
+    "area": "London",
+    "year": 2011,
+    "value": 325576
+  },
+  {
+    "area": "South East",
+    "year": 2011,
+    "value": 233334
+  },
+  {
+    "area": "South West",
+    "year": 2011,
+    "value": 194776
+  },
+  {
+    "area": "England",
+    "year": 2011,
+    "value": 186279
+  },
+  {
+    "area": "Wales",
+    "year": 2011,
+    "value": 131977
+  },
+  {
+    "area": "England And Wales",
+    "year": 2011,
+    "value": 183335
+  },
+  {
+    "area": "City of London",
+    "year": 2012,
+    "value": 494403
+  },
+  {
+    "area": "Barking and Dagenham",
+    "year": 2012,
+    "value": 174070
+  },
+  {
+    "area": "Barnet",
+    "year": 2012,
+    "value": 362765
+  },
+  {
+    "area": "Bexley",
+    "year": 2012,
+    "value": 209681
+  },
+  {
+    "area": "Brent",
+    "year": 2012,
+    "value": 334205
+  },
+  {
+    "area": "Bromley",
+    "year": 2012,
+    "value": 292754
+  },
+  {
+    "area": "Camden",
+    "year": 2012,
+    "value": 573393
+  },
+  {
+    "area": "Croydon",
+    "year": 2012,
+    "value": 237115
+  },
+  {
+    "area": "Ealing",
+    "year": 2012,
+    "value": 339933
+  },
+  {
+    "area": "Enfield",
+    "year": 2012,
+    "value": 259997
+  },
+  {
+    "area": "Greenwich",
+    "year": 2012,
+    "value": 256193
+  },
+  {
+    "area": "Hackney",
+    "year": 2012,
+    "value": 339292
+  },
+  {
+    "area": "Hammersmith and Fulham",
+    "year": 2012,
+    "value": 543853
+  },
+  {
+    "area": "Haringey",
+    "year": 2012,
+    "value": 341855
+  },
+  {
+    "area": "Harrow",
+    "year": 2012,
+    "value": 306131
+  },
+  {
+    "area": "Havering",
+    "year": 2012,
+    "value": 225429
+  },
+  {
+    "area": "Hillingdon",
+    "year": 2012,
+    "value": 267167
+  },
+  {
+    "area": "Hounslow",
+    "year": 2012,
+    "value": 297238
+  },
+  {
+    "area": "Islington",
+    "year": 2012,
+    "value": 442235
+  },
+  {
+    "area": "Kensington and Chelsea",
+    "year": 2012,
+    "value": 1002564
+  },
+  {
+    "area": "Kingston upon Thames",
+    "year": 2012,
+    "value": 334647
+  },
+  {
+    "area": "Lambeth",
+    "year": 2012,
+    "value": 342889
+  },
+  {
+    "area": "Lewisham",
+    "year": 2012,
+    "value": 254837
+  },
+  {
+    "area": "Merton",
+    "year": 2012,
+    "value": 333358
+  },
+  {
+    "area": "Newham",
+    "year": 2012,
+    "value": 209746
+  },
+  {
+    "area": "Redbridge",
+    "year": 2012,
+    "value": 273750
+  },
+  {
+    "area": "Richmond upon Thames",
+    "year": 2012,
+    "value": 475924
+  },
+  {
+    "area": "Southwark",
+    "year": 2012,
+    "value": 353005
+  },
+  {
+    "area": "Sutton",
+    "year": 2012,
+    "value": 246896
+  },
+  {
+    "area": "Tower Hamlets",
+    "year": 2012,
+    "value": 321718
+  },
+  {
+    "area": "Waltham Forest",
+    "year": 2012,
+    "value": 236524
+  },
+  {
+    "area": "Wandsworth",
+    "year": 2012,
+    "value": 443779
+  },
+  {
+    "area": "Westminster",
+    "year": 2012,
+    "value": 731953
+  },
+  {
+    "area": "Inner London",
+    "year": 2012,
+    "value": 414399
+  },
+  {
+    "area": "Outer London",
+    "year": 2012,
+    "value": 286194
+  },
+  {
+    "area": "North East",
+    "year": 2012,
+    "value": 117902
+  },
+  {
+    "area": "North West",
+    "year": 2012,
+    "value": 131064
+  },
+  {
+    "area": "Yorkshire And The Humber",
+    "year": 2012,
+    "value": 133479
+  },
+  {
+    "area": "East Midlands",
+    "year": 2012,
+    "value": 142404
+  },
+  {
+    "area": "West Midlands",
+    "year": 2012,
+    "value": 149873
+  },
+  {
+    "area": "East of England",
+    "year": 2012,
+    "value": 202405
+  },
+  {
+    "area": "London",
+    "year": 2012,
+    "value": 334918
+  },
+  {
+    "area": "South East",
+    "year": 2012,
+    "value": 238648
+  },
+  {
+    "area": "South West",
+    "year": 2012,
+    "value": 196809
+  },
+  {
+    "area": "England",
+    "year": 2012,
+    "value": 190592
+  },
+  {
+    "area": "Wales",
+    "year": 2012,
+    "value": 132555
+  },
+  {
+    "area": "England And Wales",
+    "year": 2012,
+    "value": 187473
+  },
+  {
+    "area": "City of London",
+    "year": 2013,
+    "value": 749563
+  },
+  {
+    "area": "Barking and Dagenham",
+    "year": 2013,
+    "value": 181352
+  },
+  {
+    "area": "Barnet",
+    "year": 2013,
+    "value": 381497
+  },
+  {
+    "area": "Bexley",
+    "year": 2013,
+    "value": 220724
+  },
+  {
+    "area": "Brent",
+    "year": 2013,
+    "value": 356377
+  },
+  {
+    "area": "Bromley",
+    "year": 2013,
+    "value": 308967
+  },
+  {
+    "area": "Camden",
+    "year": 2013,
+    "value": 634576
+  },
+  {
+    "area": "Croydon",
+    "year": 2013,
+    "value": 246470
+  },
+  {
+    "area": "Ealing",
+    "year": 2013,
+    "value": 356936
+  },
+  {
+    "area": "Enfield",
+    "year": 2013,
+    "value": 273006
+  },
+  {
+    "area": "Greenwich",
+    "year": 2013,
+    "value": 286874
+  },
+  {
+    "area": "Hackney",
+    "year": 2013,
+    "value": 384415
+  },
+  {
+    "area": "Hammersmith and Fulham",
+    "year": 2013,
+    "value": 605099
+  },
+  {
+    "area": "Haringey",
+    "year": 2013,
+    "value": 376909
+  },
+  {
+    "area": "Harrow",
+    "year": 2013,
+    "value": 327919
+  },
+  {
+    "area": "Havering",
+    "year": 2013,
+    "value": 235762
+  },
+  {
+    "area": "Hillingdon",
+    "year": 2013,
+    "value": 279244
+  },
+  {
+    "area": "Hounslow",
+    "year": 2013,
+    "value": 320282
+  },
+  {
+    "area": "Islington",
+    "year": 2013,
+    "value": 496321
+  },
+  {
+    "area": "Kensington and Chelsea",
+    "year": 2013,
+    "value": 1112029
+  },
+  {
+    "area": "Kingston upon Thames",
+    "year": 2013,
+    "value": 359796
+  },
+  {
+    "area": "Lambeth",
+    "year": 2013,
+    "value": 372426
+  },
+  {
+    "area": "Lewisham",
+    "year": 2013,
+    "value": 272980
+  },
+  {
+    "area": "Merton",
+    "year": 2013,
+    "value": 368535
+  },
+  {
+    "area": "Newham",
+    "year": 2013,
+    "value": 220579
+  },
+  {
+    "area": "Redbridge",
+    "year": 2013,
+    "value": 281492
+  },
+  {
+    "area": "Richmond upon Thames",
+    "year": 2013,
+    "value": 511671
+  },
+  {
+    "area": "Southwark",
+    "year": 2013,
+    "value": 374055
+  },
+  {
+    "area": "Sutton",
+    "year": 2013,
+    "value": 260199
+  },
+  {
+    "area": "Tower Hamlets",
+    "year": 2013,
+    "value": 342845
+  },
+  {
+    "area": "Waltham Forest",
+    "year": 2013,
+    "value": 261714
+  },
+  {
+    "area": "Wandsworth",
+    "year": 2013,
+    "value": 486553
+  },
+  {
+    "area": "Westminster",
+    "year": 2013,
+    "value": 840540
+  },
+  {
+    "area": "Inner London",
+    "year": 2013,
+    "value": 453617
+  },
+  {
+    "area": "Outer London",
+    "year": 2013,
+    "value": 302059
+  },
+  {
+    "area": "North East",
+    "year": 2013,
+    "value": 117841
+  },
+  {
+    "area": "North West",
+    "year": 2013,
+    "value": 131868
+  },
+  {
+    "area": "Yorkshire And The Humber",
+    "year": 2013,
+    "value": 134864
+  },
+  {
+    "area": "East Midlands",
+    "year": 2013,
+    "value": 145977
+  },
+  {
+    "area": "West Midlands",
+    "year": 2013,
+    "value": 153666
+  },
+  {
+    "area": "East of England",
+    "year": 2013,
+    "value": 208454
+  },
+  {
+    "area": "London",
+    "year": 2013,
+    "value": 359872
+  },
+  {
+    "area": "South East",
+    "year": 2013,
+    "value": 245156
+  },
+  {
+    "area": "South West",
+    "year": 2013,
+    "value": 199390
+  },
+  {
+    "area": "England",
+    "year": 2013,
+    "value": 195426
+  },
+  {
+    "area": "Wales",
+    "year": 2013,
+    "value": 133307
+  },
+  {
+    "area": "England And Wales",
+    "year": 2013,
+    "value": 192004
+  },
+  {
+    "area": "City of London",
+    "year": 2014,
+    "value": 736127
+  },
+  {
+    "area": "Barking and Dagenham",
+    "year": 2014,
+    "value": 206204
+  },
+  {
+    "area": "Barnet",
+    "year": 2014,
+    "value": 419842
+  },
+  {
+    "area": "Bexley",
+    "year": 2014,
+    "value": 246671
+  },
+  {
+    "area": "Brent",
+    "year": 2014,
+    "value": 390262
+  },
+  {
+    "area": "Bromley",
+    "year": 2014,
+    "value": 346776
+  },
+  {
+    "area": "Camden",
+    "year": 2014,
+    "value": 704993
+  },
+  {
+    "area": "Croydon",
+    "year": 2014,
+    "value": 270924
+  },
+  {
+    "area": "Ealing",
+    "year": 2014,
+    "value": 416084
+  },
+  {
+    "area": "Enfield",
+    "year": 2014,
+    "value": 295270
+  },
+  {
+    "area": "Greenwich",
+    "year": 2014,
+    "value": 309055
+  },
+  {
+    "area": "Hackney",
+    "year": 2014,
+    "value": 443334
+  },
+  {
+    "area": "Hammersmith and Fulham",
+    "year": 2014,
+    "value": 688894
+  },
+  {
+    "area": "Haringey",
+    "year": 2014,
+    "value": 415282
+  },
+  {
+    "area": "Harrow",
+    "year": 2014,
+    "value": 366337
+  },
+  {
+    "area": "Havering",
+    "year": 2014,
+    "value": 260020
+  },
+  {
+    "area": "Hillingdon",
+    "year": 2014,
+    "value": 309197
+  },
+  {
+    "area": "Hounslow",
+    "year": 2014,
+    "value": 343265
+  },
+  {
+    "area": "Islington",
+    "year": 2014,
+    "value": 561746
+  },
+  {
+    "area": "Kensington and Chelsea",
+    "year": 2014,
+    "value": 1272070
+  },
+  {
+    "area": "Kingston upon Thames",
+    "year": 2014,
+    "value": 408164
+  },
+  {
+    "area": "Lambeth",
+    "year": 2014,
+    "value": 441043
+  },
+  {
+    "area": "Lewisham",
+    "year": 2014,
+    "value": 317418
+  },
+  {
+    "area": "Merton",
+    "year": 2014,
+    "value": 414112
+  },
+  {
+    "area": "Newham",
+    "year": 2014,
+    "value": 250869
+  },
+  {
+    "area": "Redbridge",
+    "year": 2014,
+    "value": 296045
+  },
+  {
+    "area": "Richmond upon Thames",
+    "year": 2014,
+    "value": 578861
+  },
+  {
+    "area": "Southwark",
+    "year": 2014,
+    "value": 438550
+  },
+  {
+    "area": "Sutton",
+    "year": 2014,
+    "value": 291776
+  },
+  {
+    "area": "Tower Hamlets",
+    "year": 2014,
+    "value": 398293
+  },
+  {
+    "area": "Waltham Forest",
+    "year": 2014,
+    "value": 309212
+  },
+  {
+    "area": "Wandsworth",
+    "year": 2014,
+    "value": 560759
+  },
+  {
+    "area": "Westminster",
+    "year": 2014,
+    "value": 982786
+  },
+  {
+    "area": "Inner London",
+    "year": 2014,
+    "value": 513150
+  },
+  {
+    "area": "Outer London",
+    "year": 2014,
+    "value": 330706
+  },
+  {
+    "area": "North East",
+    "year": 2014,
+    "value": 120105
+  },
+  {
+    "area": "North West",
+    "year": 2014,
+    "value": 136089
+  },
+  {
+    "area": "Yorkshire And The Humber",
+    "year": 2014,
+    "value": 138223
+  },
+  {
+    "area": "East Midlands",
+    "year": 2014,
+    "value": 153552
+  },
+  {
+    "area": "West Midlands",
+    "year": 2014,
+    "value": 159337
+  },
+  {
+    "area": "East of England",
+    "year": 2014,
+    "value": 221718
+  },
+  {
+    "area": "London",
+    "year": 2014,
+    "value": 396213
+  },
+  {
+    "area": "South East",
+    "year": 2014,
+    "value": 260467
+  },
+  {
+    "area": "South West",
+    "year": 2014,
+    "value": 208536
+  },
+  {
+    "area": "England",
+    "year": 2014,
+    "value": 203311
+  },
+  {
+    "area": "Wales",
+    "year": 2014,
+    "value": 137036
+  },
+  {
+    "area": "England And Wales",
+    "year": 2014,
+    "value": 199549
+  },
+  {
+    "area": "City of London",
+    "year": 2015,
+    "value": 704212
+  },
+  {
+    "area": "Barking and Dagenham",
+    "year": 2015,
+    "value": 232262
+  },
+  {
+    "area": "Barnet",
+    "year": 2015,
+    "value": 469327
+  },
+  {
+    "area": "Bexley",
+    "year": 2015,
+    "value": 268926
+  },
+  {
+    "area": "Brent",
+    "year": 2015,
+    "value": 425987
+  },
+  {
+    "area": "Bromley",
+    "year": 2015,
+    "value": 387753
+  },
+  {
+    "area": "Camden",
+    "year": 2015,
+    "value": 769629
+  },
+  {
+    "area": "Croydon",
+    "year": 2015,
+    "value": 305866
+  },
+  {
+    "area": "Ealing",
+    "year": 2015,
+    "value": 450678
+  },
+  {
+    "area": "Enfield",
+    "year": 2015,
+    "value": 331754
+  },
+  {
+    "area": "Greenwich",
+    "year": 2015,
+    "value": 352908
+  },
+  {
+    "area": "Hackney",
+    "year": 2015,
+    "value": 495344
+  },
+  {
+    "area": "Hammersmith and Fulham",
+    "year": 2015,
+    "value": 741420
+  },
+  {
+    "area": "Haringey",
+    "year": 2015,
+    "value": 453958
+  },
+  {
+    "area": "Harrow",
+    "year": 2015,
+    "value": 394866
+  },
+  {
+    "area": "Havering",
+    "year": 2015,
+    "value": 290179
+  },
+  {
+    "area": "Hillingdon",
+    "year": 2015,
+    "value": 355545
+  },
+  {
+    "area": "Hounslow",
+    "year": 2015,
+    "value": 383428
+  },
+  {
+    "area": "Islington",
+    "year": 2015,
+    "value": 616754
+  },
+  {
+    "area": "Kensington and Chelsea",
+    "year": 2015,
+    "value": 1233932
+  },
+  {
+    "area": "Kingston upon Thames",
+    "year": 2015,
+    "value": 435587
+  },
+  {
+    "area": "Lambeth",
+    "year": 2015,
+    "value": 472322
+  },
+  {
+    "area": "Lewisham",
+    "year": 2015,
+    "value": 357634
+  },
+  {
+    "area": "Merton",
+    "year": 2015,
+    "value": 451046
+  },
+  {
+    "area": "Newham",
+    "year": 2015,
+    "value": 289114
+  },
+  {
+    "area": "Redbridge",
+    "year": 2015,
+    "value": 338936
+  },
+  {
+    "area": "Richmond upon Thames",
+    "year": 2015,
+    "value": 607049
+  },
+  {
+    "area": "Southwark",
+    "year": 2015,
+    "value": 485706
+  },
+  {
+    "area": "Sutton",
+    "year": 2015,
+    "value": 324944
+  },
+  {
+    "area": "Tower Hamlets",
+    "year": 2015,
+    "value": 424987
+  },
+  {
+    "area": "Waltham Forest",
+    "year": 2015,
+    "value": 352767
+  },
+  {
+    "area": "Wandsworth",
+    "year": 2015,
+    "value": 582987
+  },
+  {
+    "area": "Westminster",
+    "year": 2015,
+    "value": 983757
+  },
+  {
+    "area": "Inner London",
+    "year": 2015,
+    "value": 542094
+  },
+  {
+    "area": "Outer London",
+    "year": 2015,
+    "value": 367137
+  },
+  {
+    "area": "North East",
+    "year": 2015,
+    "value": 124287
+  },
+  {
+    "area": "North West",
+    "year": 2015,
+    "value": 141610
+  },
+  {
+    "area": "Yorkshire And The Humber",
+    "year": 2015,
+    "value": 143530
+  },
+  {
+    "area": "East Midlands",
+    "year": 2015,
+    "value": 162948
+  },
+  {
+    "area": "West Midlands",
+    "year": 2015,
+    "value": 168049
+  },
+  {
+    "area": "East of England",
+    "year": 2015,
+    "value": 241184
+  },
+  {
+    "area": "London",
+    "year": 2015,
+    "value": 428782
+  },
+  {
+    "area": "South East",
+    "year": 2015,
+    "value": 279714
+  },
+  {
+    "area": "South West",
+    "year": 2015,
+    "value": 220574
+  },
+  {
+    "area": "England",
+    "year": 2015,
+    "value": 214637
+  },
+  {
+    "area": "Wales",
+    "year": 2015,
+    "value": 141624
+  },
+  {
+    "area": "England And Wales",
+    "year": 2015,
+    "value": 210454
+  },
+  {
+    "area": "City of London",
+    "year": 2016,
+    "value": 584539
+  },
+  {
+    "area": "Barking and Dagenham",
+    "year": 2016,
+    "value": 274835
+  },
+  {
+    "area": "Barnet",
+    "year": 2016,
+    "value": 478051
+  },
+  {
+    "area": "Bexley",
+    "year": 2016,
+    "value": 312076
+  },
+  {
+    "area": "Brent",
+    "year": 2016,
+    "value": 431970
+  },
+  {
+    "area": "Bromley",
+    "year": 2016,
+    "value": 423557
+  },
+  {
+    "area": "Camden",
+    "year": 2016,
+    "value": 752638
+  },
+  {
+    "area": "Croydon",
+    "year": 2016,
+    "value": 331325
+  },
+  {
+    "area": "Ealing",
+    "year": 2016,
+    "value": 446024
+  },
+  {
+    "area": "Enfield",
+    "year": 2016,
+    "value": 371791
+  },
+  {
+    "area": "Greenwich",
+    "year": 2016,
+    "value": 393109
+  },
+  {
+    "area": "Hackney",
+    "year": 2016,
+    "value": 515050
+  },
+  {
+    "area": "Hammersmith and Fulham",
+    "year": 2016,
+    "value": 718366
+  },
+  {
+    "area": "Haringey",
+    "year": 2016,
+    "value": 449162
+  },
+  {
+    "area": "Harrow",
+    "year": 2016,
+    "value": 413143
+  },
+  {
+    "area": "Havering",
+    "year": 2016,
+    "value": 324690
+  },
+  {
+    "area": "Hillingdon",
+    "year": 2016,
+    "value": 382931
+  },
+  {
+    "area": "Hounslow",
+    "year": 2016,
+    "value": 395683
+  },
+  {
+    "area": "Islington",
+    "year": 2016,
+    "value": 616442
+  },
+  {
+    "area": "Kensington and Chelsea",
+    "year": 2016,
+    "value": 1243237
+  },
+  {
+    "area": "Kingston upon Thames",
+    "year": 2016,
+    "value": 471030
+  },
+  {
+    "area": "Lambeth",
+    "year": 2016,
+    "value": 502453
+  },
+  {
+    "area": "Lewisham",
+    "year": 2016,
+    "value": 384740
+  },
+  {
+    "area": "Merton",
+    "year": 2016,
+    "value": 467941
+  },
+  {
+    "area": "Newham",
+    "year": 2016,
+    "value": 340889
+  },
+  {
+    "area": "Redbridge",
+    "year": 2016,
+    "value": 373756
+  },
+  {
+    "area": "Richmond upon Thames",
+    "year": 2016,
+    "value": 611014
+  },
+  {
+    "area": "Southwark",
+    "year": 2016,
+    "value": 535593
+  },
+  {
+    "area": "Sutton",
+    "year": 2016,
+    "value": 349190
+  },
+  {
+    "area": "Tower Hamlets",
+    "year": 2016,
+    "value": 459567
+  },
+  {
+    "area": "Waltham Forest",
+    "year": 2016,
+    "value": 386035
+  },
+  {
+    "area": "Wandsworth",
+    "year": 2016,
+    "value": 635689
+  },
+  {
+    "area": "Westminster",
+    "year": 2016,
+    "value": 1005244
+  },
+  {
+    "area": "Inner London",
+    "year": 2016,
+    "value": 566636
+  },
+  {
+    "area": "Outer London",
+    "year": 2016,
+    "value": 395082
+  },
+  {
+    "area": "North East",
+    "year": 2016,
+    "value": 124220
+  },
+  {
+    "area": "North West",
+    "year": 2016,
+    "value": 146016
+  },
+  {
+    "area": "Yorkshire And The Humber",
+    "year": 2016,
+    "value": 149208
+  },
+  {
+    "area": "East Midlands",
+    "year": 2016,
+    "value": 170634
+  },
+  {
+    "area": "West Midlands",
+    "year": 2016,
+    "value": 175181
+  },
+  {
+    "area": "East of England",
+    "year": 2016,
+    "value": 258431
+  },
+  {
+    "area": "London",
+    "year": 2016,
+    "value": 457285
+  },
+  {
+    "area": "South East",
+    "year": 2016,
+    "value": 298871
+  },
+  {
+    "area": "South West",
+    "year": 2016,
+    "value": 231891
+  },
+  {
+    "area": "England",
+    "year": 2016,
+    "value": 222070
+  },
+  {
+    "area": "Wales",
+    "year": 2016,
+    "value": 145785
+  },
+  {
+    "area": "England And Wales",
+    "year": 2016,
+    "value": 216532
+  }
+]
