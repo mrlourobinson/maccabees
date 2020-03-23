@@ -2,7 +2,7 @@
 
 {% import "_modules/link/link.nunjucks" as link %}
 
-{% block story %}
+{% block header %}
 
   {% block hero %}<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/The_Maccabees_1.jpg"/>{% endblock %}
   {% block headline %}The Maccabees: An exploration in data{% endblock %}

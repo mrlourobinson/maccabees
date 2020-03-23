@@ -9,9 +9,18 @@
 </head>
 <body>
     <nav>
-            <p class="title">The Lou's Wor<span class="kay">K</span> Times</p>
+            <a href="/"><p class="title">The Lou's Wor<span class="kay">K</span> Times</p></a>
     </nav>
     {% block layout %}{% endblock %}
+
+
+
+    <footer>
+    <div class="container">
+      <p>A data visualisation and graphic reporting project by Lou Robinson.</p>
+      <p>For more information, contact: hello@lourobinson.co.uk</p>
+    </div>
+    </footer>
     <script src="/scripts/main.js"></script>
 </body>
 </html>

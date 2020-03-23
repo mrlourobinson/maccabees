@@ -5,7 +5,52 @@
 
 {% block layout %}
 <div class="layout-wrapper home">
+  <div class="container">
   {% block content %}{% endblock %}
+  </div>
+
+  <div class="container">
+    <div class="row">
+    {% for st in site.data.stories %}
+      {% if loop.index0 == 0 %}
+        <div class="col-sm-12">
+
+            <div class="readmore">
+              <a href="./{{ st.Link }}">
+              <img src="/images/{{ st.Image }}" />
+              </a>
+            </div>
+            <a href="./{{ st.Link }}"><h5 class="card-title">{{ st.Title }}</h5></a>
+            <h7>Published on: {{ st.Date}}</h7>
+      <hr>
+      </div>
+      {% endif %}
+    {% endfor %}
+    </div>
+    </div>
+
+  <div class="container">
+    <div class="row">
+    {% for st in site.data.stories %}
+      {% if loop.index0 > 1 %}
+        <div class="col-sm-6">
+          <div class="card">
+          <div class="card-body">
+            <div class="readmore">
+              <a href="./{{ st.Link }}">
+              <img src="/images/{{ st.Image }}" />
+              </a>
+            </div>
+            <a href="./{{ st.Link }}"><h5 class="card-title">{{ st.Title }}</h5></a>
+            <h7>Published on: {{ st.Date}}</h7>
+          </div>
+      </div>
+      </div>
+      {% endif %}
+    {% endfor %}
+    </div>
+    </div>
+
 </div>
 {% endblock %}
 
