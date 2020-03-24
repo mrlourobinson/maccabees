@@ -8,13 +8,19 @@
 {% block header %}
 
   {% block hero %}<img src="/images/houseprices.jpg"/>{% endblock %}
-  {% block headline %}London House Prices, in charts{% endblock %}
+  {% block headline %}London and elsewhere:<br> House Prices, in charts{% endblock %}
   {% block byline %}Lou Robinson{% endblock %}
   {% block pubdate %}Mon Mar 23 2020{% endblock %}
 {% endblock %}
 
 {% block content %}
-<p>houseprices page</p>
+<section >
+  <p class="leader">House prices in London have seen in precedented increase over the last 20 years, and it doesn't show signs of slowing. These charts below, show the huge change in average house prices, and the huge gap in wealth it illustrates across the capital, and the country.</p>
+  </section>
+  <section>
+<div id="house"></div>
+</section>
 {% endblock %}
+
 
 

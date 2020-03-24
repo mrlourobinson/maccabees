@@ -10,6 +10,7 @@ import { Link } from '../_modules/link/link';
 import './_chart.js';
 import './_singles.js';
 import './_map.js';
+import './_houseprices.js';
 
 $(() => {
   new Link(); // Activate Link modules logic

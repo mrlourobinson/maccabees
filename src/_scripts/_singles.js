@@ -1,6 +1,7 @@
 import * as d3 from "d3";
 import singles from "../_data/singles";
 
+if(d3.select('#singles').empty() == false) {
 
     var margin = {top: 20, right: 20, bottom: 20, left: 20};
 
@@ -80,5 +81,4 @@ import singles from "../_data/singles";
         tooltip.text('');
         d3.select(this).attr("r",3);
     });
-
-    
+  }

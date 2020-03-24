@@ -17,8 +17,8 @@
 {% endblock %}
 
 {% block content %}
-<section class="leader">
-  <p>The Maccabees were an English indie rock band, formed in 2004 in London. They released four albums: Colour It In in 2007, followed by Wall of Arms in 2009, Given to the Wild which was released on 9 January 2012 and their last album Marks to Prove It released on 31 July 2015. The band announced that they decided to disband in August 2016, with farewell gigs in 2017.<p>
+<section >
+  <p class="leader">The Maccabees were an English indie rock band, formed in 2004 in London. They released four albums: Colour It In in 2007, followed by Wall of Arms in 2009, Given to the Wild which was released on 9 January 2012 and their last album Marks to Prove It released on 31 July 2015. The band announced that they decided to disband in August 2016, with farewell gigs in 2017.<p>
   <p>The band were signed to major label Fiction Records, and released their debut album Colour It In in May 2007. Because an early copy of the album appeared on the New York Times website, Colour It In became available to download exclusively from iTunes on 16 December, before its physical release on 14 May, in an effort to combat the leak. The single "First Love" was their first to chart in the UK top 40, and was followed by "About Your Dress", which peaked at No. 33. Their album received positive reviews, and charted at No. 24. They then toured the United States with fellow indie group Bloc Party. A full UK tour followed from October 2007, culminating in a sell-out show at the Roundhouse venue in London.</p>
   </section>
 
@@ -87,14 +87,5 @@
 </section>
 
 </div>
-
-
-
-<script>
-
-
-
-
-</script>
 
 {% endblock %}

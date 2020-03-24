@@ -38,14 +38,36 @@ a:active {
 }
 
 .container {
-  max-width: 1024px;
+  max-width: 740px;
   margin: 0 auto 0 auto;
 }
+
+.wide-cont {
+  max-width: 1024px;
+  margin: 0 auto 0 auto;
+  position: relative;
+}
+
 section {
   margin-bottom: 25px;
   width: 100%;
   float: right;
   position: relative;
+}
+
+.leader {
+  font-size: 1.2em;
+}
+
+.leader:first-child:first-letter {
+  color: black;
+  float: left;
+  font-family: 'Libre Baskerville', serif;
+  font-size: 75px;
+  line-height: 60px;
+  padding-top: 10px;
+  padding-right: 8px;
+  padding-left: 3px;
 }
 
 .hero {

@@ -1,6 +1,7 @@
 import * as d3 from "d3";
 import albums from "../_data/albums";
 
+if(d3.select('#albums').empty() == false) {
 
     var margin = {top: 20, right: 20, bottom: 20, left: 20};
 
@@ -87,4 +88,6 @@ import albums from "../_data/albums";
         d3.select(this).attr("r",3);
     });
 
-    
+} else {
+  
+}

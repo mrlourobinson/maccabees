@@ -1,6 +1,8 @@
 import * as L from "leaflet";
+import * as d3 from "d3";
 import gigs from "../_data/gigs";
 
+if(d3.select('#map').empty() == false) {
 var map = L.map('map');
 var sat = L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth/{z}/{x}/{y}{r}.png');
 sat.addTo(map);
@@ -12,5 +14,5 @@ gigs.forEach(gig => {
     .addTo(map)
     .bindTooltip(gig.Venue + " in " + gig.City + " on " + gig.Date);
 })
-
+}
 
