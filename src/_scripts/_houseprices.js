@@ -28,7 +28,7 @@ if(d3.select('#house').empty() == false) {
 
             console.log(cleaned_data)
 
-        }
+        
 
 
         for (var i = 0; i < cleaned_data.length; i++) {
@@ -124,3 +124,4 @@ if(d3.select('#house').empty() == false) {
 
  
        };
+}

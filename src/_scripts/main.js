@@ -11,6 +11,7 @@ import './_chart.js';
 import './_singles.js';
 import './_map.js';
 import './_houseprices.js';
+import './_crime.js';
 
 $(() => {
   new Link(); // Activate Link modules logic

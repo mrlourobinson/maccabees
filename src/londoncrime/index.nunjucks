@@ -1,0 +1,42 @@
+{% extends '_layouts/story.nunjucks' %}
+
+{% block config %}
+  {# Correct base url pathing for this page #}
+  {% set baseUrl = '../' %}
+{% endblock %}
+
+{% block header %}
+
+  {% block hero %}<img src="/images/crime.jpg"/>{% endblock %}
+  {% block headline %}How bad is your borough?{% endblock %}
+  {% block byline %}Lou Robinson{% endblock %}
+  {% block pubdate %}Tues Mar 24 2020{% endblock %}
+{% endblock %}
+
+
+{% block content %}
+
+<div id="crime-sel">
+		<div class="search_categories">
+		    <div class="select">
+		       <select name="search_categories" id="search_categories">
+				<option value="Burglary">Burglary</option>
+				<option value="CriminalDamage">Criminal Damage</option>
+				<option value="Drugs">Drugs</option>
+				<option value="FraudForgery">Fraud and Forgery</option>
+				<option value="Other">Other</option>
+				<option value="Robbery">Robbery</option>
+				<option value="SexualOffences">Sexual Offences</option>
+				<option value="TheftandHandling">Theft and Handling</option>
+				<option value="Violence">Violence</option>
+				<option selected="selected" value="Total">Total crime</option>
+		       </select>
+		     </div>
+		 </div>
+	</div>
+
+  <section id = "crime">
+
+  </section>
+
+{% endblock %}
